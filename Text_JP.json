@@ -819,9 +819,9 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Smile","text":"でも、本当に素敵なコートだったな。実はそういう感じに部屋を塗り替えたかったんだけど、ママが許してくれなくてさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"whatWereYouSaying"}
 ],
 "randomAltHint2":[
-{"color":"Pink", "sprite":"camera1Sad","text":"You know that old Victorian arsenic wallpaper that makes people sick?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"When I first learned about them, it was because a kid at my elementary school's family had just started remodeling their old historic house in the Vieux Carré, peeled back some wallpaper…… and found it.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"But it was nice to look at on its own. I wanted to paint my room like that but she never let me.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"whatWereYouSaying"}
+{"color":"Pink", "sprite":"camera1Sad","text":"ねえねえ。ヴィクトリア朝の古い壁紙が、ヒ素毒でみんなを病気にしてたって知ってた？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"小学校の頃の同級生の家族が、ヴュー・カレってところにある別荘をリフォームしようとして、壁紙をひっぺがしたら……そんなのが出てきたんだって。その時に初めて知ったんだよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"確かに毒だけど、見た目は好きだったな。実はそういう感じに部屋を塗り替えたかったんだけど、ママが許してくれなくてさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"whatWereYouSaying"}
 ],
 
 
@@ -833,42 +833,42 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "fineGreetingGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Oh thank God, I thought you were going to ignore me again like yesterday.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera1Smile","text":"ああよかった。また昨日みたいにぼくのことを無視するんじゃないかと思っちゃった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 "fineGreetingBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Okay sorry, sorry. After what happened yesterday I was worried I made you mad.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera2Angry","text":"わかった。ごめんね、ほんとに。昨日はあんなんだったからさ、怒らせちゃったかなって","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 "fineGreetingUgly":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Oh thank God. I was worried you w","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Wait, why did you say it like that?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Anyway, I was worried you were going to ignore me all day like yesterday!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera1Smile","text":"ああよかった。また昨日みたいn","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ちょっと、そのアイサツは何なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"なんにせよ、今日も昨日みたいにずっと無視されるんじゃないかと思ったんだから！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 "fineGreetingRude":[
-{"color":"Pink", "sprite":"camera1Smile","text":"So you CAN hear me! Why were you ignoring me?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I was so worried! Why do you keep ignoring me?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"You've been ignoring me since yesterday!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくの声届いてんじゃん！ なんでそんな無視するのさ！？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"すごく心配したんだから！なんで無視したままなのさ！？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"昨日はずっとぼくのことを無視してさ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 
 
 
 
 "sadGreeting": [
-{"name":"GreetingGood", "text":"Sorry, I'm here. I was distracted."},
-{"name":"GreetingBad", "text":"Calm down. What do you want?"}
+{"name":"GreetingGood", "text":"すまない。私はここにいる。少し集中が切れていた"},
+{"name":"GreetingBad", "text":"落ち着いてくれ。何をしてほしい？"}
 ],
 
 "sadGreetingGood":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"You're here now? Ada, please don't ignore me anymore; not after you did yesterday.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダ、ほんとに戻ってきたの？ もうぼくのことを無視しないでよ。昨日あんなことがあったからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 "sadGreetingBad":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"You're here now? Ada, please don't ignore me anymore; not after you did yesterday.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダ、ほんとに戻ってきたの？ もうぼくのことを無視しないでよ。昨日あんなことがあったからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 "sadGreetingUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"You're here now? Ada, please don't ignore me anymore; not after you did yesterday.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダ、ほんとに戻ってきたの？ もうぼくのことを無視しないでよ。昨日あんなことがあったからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 "sadGreetingRude":[
-{"color":"Pink", "sprite":"camera1Smile","text":"You can hear me? Please don't leave me alone again.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I can't take another day like yesterday.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくの声が聞こえるの？ もう一人にしないでよ、お願いだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"もう昨日みたいな日には耐えられない……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Introductions"}
 ],
 
 
@@ -879,26 +879,26 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "Introductions": [
-{"name":"IntroductionsGood", "text":"You must have confused me with someone else."},
-{"name":"IntroductionsBad", "text":"I wasn't here yesterday, asshole."}
+{"name":"IntroductionsGood", "text":"あなたはどうやら、私を別のだれかと間違えているみたいだ"},
+{"name":"IntroductionsBad", "text":"私は昨日こんなところにはいなかったぞ。バカめ"}
 ],
 
 "fineIntroductionsGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Wait, you AREN'T Ada?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"What happened to her?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
+{"color":"Pink", "sprite":"camera2Angry","text":"ちょっと待って、アダじゃないの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"何があったの？ アダに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
 ],
 "fineIntroductionsBad":[
 {"color":"Pink", "sprite":"camera2Angry","text":"How was I supposed to know that, I'm not omniscient yo","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Wait","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"What happened to Ada?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"待って","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"何があったの？ アダに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
 ],
 "sadIntroductionsGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Oh…… You're not Ada?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"What Happened to Ada?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
+{"color":"Pink", "sprite":"camera2Angry","text":"えっと、アダじゃないの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"何があったの？ アダに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
 ],
 "sadIntroductionsBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Oh…… You're not Ada?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"What Happened to Ada?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
+{"color":"Pink", "sprite":"camera2Angry","text":"えっと、アダじゃないの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"何があったの？ アダに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
 ],
 
 
