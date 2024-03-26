@@ -273,7 +273,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "Whoever You Are":"あなたが誰であろうと",
-"Mystery Person":"不思議なひと",
+"Mystery Person":"ゴンベエ",
 "ada":"アダ",
 "cantClose":"adminパスコードを入力しない限り、このファイルを閉じることはできません。入力しますか？",
 "cantRecycle":"このファイルは別のプログラムで開かれています。このファイルを削除する前にプログラムを閉じてください。",
@@ -888,7 +888,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"何があったの？ アダに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
 ],
 "fineIntroductionsBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"How was I supposed to know that, I'm not omniscient yo","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"そんなこと知るわけないじゃん。ぼくは全知全能じゃ","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"待って","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"何があったの？ アダに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WheresAda"}
 ],
@@ -910,41 +910,41 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "WheresAda": [
-{"name":"WheresAdaUgly", "text":"She was reassigned. No idea why."}
+{"name":"WheresAdaUgly", "text":"彼女は配置換えになったんだ。理由はわからない"}
 ],
 
 "fineWheresAdaUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"She was? I didn't even get to say goodbye.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Was she here yesterday?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AskSupervisor"}
+{"color":"Pink", "sprite":"camera2Angry","text":"そうなの？ ぼく、アダにさよならも言えなかったのに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダは昨日ここにいたの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AskSupervisor"}
 ],
 "sadWheresAdaUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Ada's gone? Where did she go?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Was it something I did?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AskSupervisor"}
+{"color":"Pink", "sprite":"camera2Angry","text":"アダはどこかに行っちゃったの？ アダはどこ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"なにか良くないことでもしちゃったのかな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AskSupervisor"}
 ],
 
 
 
 
 "AskSupervisor": [
-{"name":"AskSupervisorGood", "text":"I'd have to ask my supervisor, Sorry."},
-{"name":"AskSupervisorBad", "text":"How am I supposed to know that?"}
+{"name":"AskSupervisorGood", "text":"すまない、上司に聞いてみなければわからない"},
+{"name":"AskSupervisorBad", "text":"なぜ私がそれを知っていなきゃいけないのだ"}
 ],
 
 "fineAskSupervisorGood":[
-{"color":"Pink", "sprite":"camera2Sad","text":"Please do. I want to know what happened to her……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Wait…… so then who are YOU?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
+{"color":"Pink", "sprite":"camera2Sad","text":"お願い。アダに何があったかを知りたいのr……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 "fineAskSupervisorBad":[
-{"color":"Pink", "sprite":"camera1Angry","text":"I don't know! Maybe because you're the one who can see the outside world?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Wait…… so then who are YOU?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
+{"color":"Pink", "sprite":"camera1Angry","text":"そんなこと聞かれても……！ きみが外界を見られる人だからじゃないかな！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 "sadAskSupervisorGood":[
 {"color":"Pink", "sprite":"camera2Angry","text":"Oh…… Can you ask them for me?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Wait…… so then who are YOU?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 "sadAskSupervisorBad":[
-{"color":"Pink", "sprite":"camera1Angry","text":"I don't know! I thought they might have told you more than me……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Wait…… so then who are YOU?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
+{"color":"Pink", "sprite":"camera1Angry","text":"そんなこと聞かれても……！ I thought they might have told you more than me……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 
 
