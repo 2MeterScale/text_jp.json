@@ -620,7 +620,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Angry","text":"壊れちゃったなら、直したほうがいいよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"fineGreeting"}
 ],
 "lonelyIntro30":[
-{"color":"Pink", "sprite":"camera2Sad","text":"どうしてこんなことするの？Why are you doing this?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"sadGreeting"}
+{"color":"Pink", "sprite":"camera2Sad","text":"どうしてこんなことするの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"sadGreeting"}
 ],
 "lonelyIntro31":[
 {"color":"Pink", "sprite":"camera1Sad","text":"変なことは何もしてないよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"sadGreeting"}
@@ -939,37 +939,37 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 "sadAskSupervisorGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Oh…… Can you ask them for me?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"えっと……代わりに聞いてきていただける？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 "sadAskSupervisorBad":[
-{"color":"Pink", "sprite":"camera1Angry","text":"そんなこと聞かれても……！ I thought they might have told you more than me……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"そんなこと聞かれても……！ きみの方が色々教えられてるんじゃないかって思っただけだよ……！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 
 
 "GiveName": [
-{"name":"GiveNameGood", "text":"I'm {name}. It's nice to meet you."},
-{"name":"GiveNameBad", "text":"Not important. I'm just assigned to your case."}
+{"name":"GiveNameGood", "text":"私は{name}だ。お会いできて光栄に思う"},
+{"name":"GiveNameBad", "text":"それは重要じゃない。ただこの案件にアサインされただけだ"}
 ],
 
-"nameNormal":"{name}?",
-"nameFunny":"Huh, that's an…… interesting name.",
-"nameSame":"So…… your name is also {name}?",
+"nameNormal":"{name}？",
+"nameFunny":"へえ……そりゃ、面白い名前だね",
+"nameSame":"それじゃ……きみも{name}って名前なの？",
 
 "fineGiveNameGood":[
 {"color":"Pink", "sprite":"camera1Smile","text":"{nameReaction}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"It's nice to meet you, too {name}.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
+{"color":"Pink", "sprite":"camera2Smile","text":"ぼくも会えて光栄さ、{name}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
 ],
 "fineGiveNameBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Fine. Mystery person it is.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
+{"color":"Pink", "sprite":"camera2Angry","text":"それじゃ、名無しのゴンベエってことで","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
 ],
 "sadGiveNameGood":[
 {"color":"Pink", "sprite":"camera1Sad","text":"{nameReaction}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"},
-{"color":"Pink", "sprite":"camera1Smile","text":"Well, it's nice to meet you, {name}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくも会えて光栄さ、{name}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
 ],
 "sadGiveNameBad":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Uh……. okay. I guess you can stay a mystery person.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"あー……じゃあ、名無しのゴンベエのままでいいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"WhatsYourName"}
 ],
 
 
