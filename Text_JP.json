@@ -980,15 +980,15 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "WhatsYourName": [
-{"name":"WhatsYourNameGood", "text":"How about you? What's your name?"},
-{"name":"WhatsYourNameBad", "text":"Cool."}
+{"name":"WhatsYourNameGood", "text":"きみは？ 名前を教えてちょうだい"},
+{"name":"WhatsYourNameBad", "text":"うん"}
 ],
 
 "WhatsYourNameGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"My name is Synthia Wren.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"WhatsYourNameContinue{Var}"}
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくの名前はシンシア・レンだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"WhatsYourNameContinue{Var}"}
 ],
 "WhatsYourNameBad":[
-{"color":"Pink", "sprite":"camera2Sad","text":"Great.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"WhatsYourNameContinue{Var}"}
+{"color":"Pink", "sprite":"camera2Sad","text":"うん……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"WhatsYourNameContinue{Var}"}
 ],
 "fineWhatsYourNameContinue":[
 {"color":"Pink", "sprite":"camera2Smile","text":"So, was Ada able to convince her boss to show me whatever she was cooking up yet?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
