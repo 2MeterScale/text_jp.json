@@ -991,18 +991,18 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Sad","text":"うん……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"WhatsYourNameContinue{Var}"}
 ],
 "fineWhatsYourNameContinue":[
-{"color":"Pink", "sprite":"camera2Smile","text":"So, was Ada able to convince her boss to show me whatever she was cooking up yet?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
+{"color":"Pink", "sprite":"camera2Smile","text":"それじゃ、アダは前から作ってたものをぼくに見せてよくなるように、上司を説得できてたのかな？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
 ],
 "sadWhatsYourNameContinue":[
-{"color":"Pink", "sprite":"camera2Sad","text":"Did Ada at least get permission to give me my surprise yet?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
+{"color":"Pink", "sprite":"camera2Sad","text":"アダがぼくにサプライズをする許可くらいはとってくれたんでしょう？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
 ],
 "fineWhatsYourNameContinueWish":[
-{"color":"Pink", "sprite":"camera2Smile","text":"So I guess Ada got permission to give me my gift…….","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I just wish I could still talk to her.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkToMe"}
+{"color":"Pink", "sprite":"camera2Smile","text":"アダがぼくにプレゼントをする許可をとったってことだと思うから……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"今はただ、アダとお話がしたいかな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkToMe"}
 ],
 "sadWhatsYourNameContinueWish":[
-{"color":"Pink", "sprite":"camera2Smile","text":"I assume Ada got persmission to give me my gift……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"The reassignment wasn't…… permanent was it? I want to talk to her again……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkToMe"}
+{"color":"Pink", "sprite":"camera2Smile","text":"アダがぼくにプレゼントをする許可をとったってことだと思うから……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"配置換えって言ってたけど……それってずっとってわけじゃないよね？ アダとお話がしたいよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkToMe"}
 ],
 
 
@@ -1014,14 +1014,14 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "NoSurprise": [
-{"name":"NoSurpriseBad", "text":"Instructions don't mention it…… so no."}
+{"name":"NoSurpriseBad", "text":"私への指示にそんなことは書いてなかった……だから、それはできない"}
 ],
 
 "fineNoSurpriseBad":[
-{"color":"Pink", "sprite":"camera1Sad","text":"God dammit…… I was really hoping for good news.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
+{"color":"Pink", "sprite":"camera1Sad","text":"そんな……いい知らせが聞けるかもって思ったのに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
 ],
 "sadNoSurpriseBad":[
-{"color":"Pink", "sprite":"camera2Sad","text":"So the only woman who cared about me is gone without saying goodbye…… and I get nothing?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
+{"color":"Pink", "sprite":"camera2Sad","text":"それじゃあ、ぼくのことを気にかけてくれるたった一人の女性が、さよならもなしにどっかに行って……ぼくには何もないんだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
 ],
 "angryNoSurpriseBad":[
 {"color":"Pink", "sprite":"camera1Angry","text":"Well THAT just sucks, doesn't it? Ada is gone and now I have to talk to a stranger!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
