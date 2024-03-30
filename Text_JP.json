@@ -1103,18 +1103,18 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 "angryAdaAboutUgly":[
 {"color":"Pink", "sprite":"camera1Angry","text":"どうでもいいじゃん、そんなこと。アダはぼくに敬意を払ってくれたのさ。目の前のクソボケとは違ってね！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"She did her best to keep my mind occupied. Brought books she was reading here and typed them in their entirety.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"She played games with me, tried to install music or movies she watched in theaters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"She had SO much work to do but she still she never forgot about me.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"She was the best thing to happen to me in years. And now I am stuck with you.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TypesOfMovies"}
+{"color":"Pink", "sprite":"camera2Angry","text":"ぼくの気を紛らわすために、アダはいろんなことをやってくれたよ。読んだことのある本を持ってきて、一語一句タイピングしたり","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"一緒にゲームをしたり、アダが劇場で観た映画館とか、最近聴いた音楽とかをインストールしようとしたり","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"アダは他にも山ほど仕事があったけど、ぼくのことを忘れたことなんか一度もなかったね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"ここ何年かで一番嬉しかったことは、アダと会えたことなんだ。それなのにぼくは今こんなことに、きみなんかと……！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TypesOfMovies"}
 ],
 
 
 
 "TypesOfMovies": [
-{"name":"TypesOfMoviesGood", "text":"What types of movies do you like?"},
-{"name":"TypesOfMoviesBad", "text":"So nothing interesting, then."},
-{"name":"TypesOfMoviesUgly", "text":"They gave me a ton of extra work too."}
+{"name":"TypesOfMoviesGood", "text":"どういう映画が好きなの？"},
+{"name":"TypesOfMoviesBad", "text":"それじゃ、面白いことをしてたわけじゃないんだ"},
+{"name":"TypesOfMoviesUgly", "text":"連中は私にも山ほどの仕事をくれるよ"}
 ],
 
 
@@ -1231,7 +1231,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Angry","text":"I know way more than you.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "angryRelax":[
-{"color":"Pink", "sprite":"camera1Angry","text":"Boring.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Angry","text":"つまんないの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 
 
