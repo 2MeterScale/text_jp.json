@@ -1119,7 +1119,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "TypesOfMoviesGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Horror mostly, I've loved that genre for years, Ada loved it too. ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"大体はホラーかな。ぼく、ホラーは昔から好きなんだ。アダもそうなんだって ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"Being honest though, I'm not picky. Just tell me about ANYTHING and my imagination would do the rest.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"Nothing sci-fi though, brings back…… memories.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
