@@ -1227,8 +1227,8 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Angry","text":"Oh of course you'd say that. Just want to rub it in my face, huh?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "angryComputers":[
-{"color":"Pink", "sprite":"camera1Angry","text":"Wow! Shocker. You do the same thing in your free time that you do for your job.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I know way more than you.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Angry","text":"うわキモっ。暇なときも仕事のときも同じことをやってんの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"きみなんかよりも、ぼくのほうがパソコンには詳しいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "angryRelax":[
 {"color":"Pink", "sprite":"camera1Angry","text":"つまんないの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
