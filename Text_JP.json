@@ -1024,10 +1024,10 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Sad","text":"それじゃあ、ぼくのことを気にかけてくれるたった一人の女性が、さよならもなしにどっかに行って……ぼくには何もないんだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
 ],
 "angryNoSurpriseBad":[
-{"color":"Pink", "sprite":"camera1Angry","text":"Well THAT just sucks, doesn't it? Ada is gone and now I have to talk to a stranger!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
+{"color":"Pink", "sprite":"camera1Angry","text":"それってめっちゃクソじゃない？ アダもいなくなっちゃって、ぼくは知らん人と話さなきゃならないなんて！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"NoSurpriseContinue"}
 ],
 "NoSurpriseContinue":[
-{"color":"Pink", "sprite":"camera2Angry","text":"This place was supposed to be PARADISE. It's not paradise if there's nothing to do here!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkToMe"}
+{"color":"Pink", "sprite":"camera2Angry","text":"この場所はさ、『楽園』になるはずだったんだよ。でも、やることがなんにもない楽園なんてありえない！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkToMe"}
 ],
 
 
@@ -1036,73 +1036,73 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "TalkToMe": [
-{"name":"TalkToMeGood", "text":"You can talk to me, can't you?"},
-{"name":"TalkToMeBad", "text":"You're going to have to tough it out."}
+{"name":"TalkToMeGood", "text":"それでも、あなたは私と話すことができるだろう？"},
+{"name":"TalkToMeBad", "text":"あなたはこの状況を耐え抜かなければならない"}
 ],
 
 "fineTalkToMeGood":[
-{"color":"Pink", "sprite":"camera1Sad","text":"I guess so…… but I'm going to miss Ada. I have no idea how long its going to take to get used to you……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"IntrodutoryQuestions"}
+{"color":"Pink", "sprite":"camera1Sad","text":"そうするしかないみたいだよね……でもやっぱりアダに会いたいな。きみと仲良くなれるまでに、どれくらいかかるかも分かんないし……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"IntrodutoryQuestions"}
 ],
 "fineTalkToMeBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Damn. You're rude. Isn't it literally your job to talk to me?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaSurprise",}
+{"color":"Pink", "sprite":"camera2Angry","text":"ちょっと、そんなひどいこと言わないでよ。真面目な話、ぼくに話しかけることがきみの仕事なんじゃないの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaSurprise",}
 ],
 "sadTalkToMeGood":[
-{"color":"Pink", "sprite":"camera1Sad","text":"You're going to keep talking to me, right? I dont really know you that well yet……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"IntrodutoryQuestions"}
+{"color":"Pink", "sprite":"camera1Sad","text":"ねえ、これからもぼくに話しかけてくれるよね？ まだきみのことはそんなによく知らないけれど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"IntrodutoryQuestions"}
 ],
 "sadTalkToMeBad":[
-{"color":"Pink", "sprite":"camera2Sad","text":"I…… ah…… Okay I guess……..","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaSurprise"}
+{"color":"Pink", "sprite":"camera2Sad","text":"えっと……うん……わかったよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaSurprise"}
 ],
 "angryTalkToMeGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"That's not exactly a good thing, considering you SUCK so far.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"IntrodutoryQuestions"}
+{"color":"Pink", "sprite":"camera2Angry","text":"ちっとも嬉しくなんかないね。いまんとこのきみったらただのカスなんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"IntrodutoryQuestions"}
 ],
 "angryTalkToMeBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Good. I'm better off without you anyways.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaSurprise"}
+{"color":"Pink", "sprite":"camera2Angry","text":"ふん。きみなんか居なくたっていいんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaSurprise"}
 ],
 
 
 
 
 "IntrodutoryQuestions":[
-{"color":"Pink", "sprite":"camera2Nervous","text":"So, what do you want to talk about?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaQuestion"},
+{"color":"Pink", "sprite":"camera2Nervous","text":"それじゃ、何か話したいことはある？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaQuestion"},
 ],
 
 
 
 "AdaQuestion": [
-{"name":"AdaAboutUgly", "text":"What did Ada and you use to do?"}
+{"name":"AdaAboutUgly", "text":"アダとはどんなことをしていたの？"}
 ],
 
 
 "fineAdaAboutUgly":[
-{"color":"Pink", "sprite":"camera2Smile","text":"We didn't have any kind of SCHEDULE. Or anything.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"We just talked about whatever topics came to our minds. She liked to tell me about movies she recently watched.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"She'd describe the plot. She'd never just send me the screenplay, she took the time to tell me in piece by piece.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Not a substitute for actually watching a movie, but I honestly enjoyed it more. Something about the way she talks is just…… ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Comforting.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"She'd do the same with books she recently read or songs she liked, a few times she asked me for her opinion on which piece clothing to buy.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I don't have much of an eye for color and always ended up recommending her blue or orange stuff.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Ada always had a lot of other work to do while she was talking to me.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I guess she's pretty high up in whatever organization you're a part of.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"But she always had time for me……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"She must have liked the company.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I hope she comes back soon. No offense.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TypesOfMovies"}
+{"color":"Pink", "sprite":"camera2Smile","text":"なんか、予定を決めてたってわけじゃないんだけど","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ただ、心のおもむくままに色々話してたかな。アダは最近観た映画の話をするのが好きだったんだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"アダはぼくにストーリーを説明してくれるんだ。ただ台本をぼくに送りつけるんじゃなくて、時間をかけて少しずつ教えてくれるの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ほんとうに映画を観る代わりになるってわけじゃなかったけど、ぼくはアダに教えてもらう方が好きだったな。アダの話し方ってさ、なんだかすごく…… ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"落ち着くの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"最近読んだ本も、最近聞いた曲も、アダは同じようにしてぼくに教えてくれるんだ。何回かは、どんな服を買ったらいいか聞かれたこともあったな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ぼくはそんなにセンスがいいってわけじゃないから、結局青かオレンジの服を勧めることになっちゃうんだけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"そうやってアダがぼくに話しかけてくれている間も、あのひとはいっぱい仕事をしていたよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"アダってさ、きみがいる職場じゃけっこう偉い人だったんじゃない？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"でも、いつもぼくのために時間をかけてくれててさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"アダはきみの会社のこと、けっこう好きだったと思うよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"すぐに戻ってくるといいな。……きみが嫌だってわけじゃないんだよ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TypesOfMovies"}
 ],
 "sadAdaAboutUgly":[
-{"color":"Pink", "sprite":"camera2Smile","text":"We didn't have any kind of SCHEDULE. Or anything.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"We just talked about whatever topics came to our minds. She liked to tell me about movies she recently watched.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"She'd describe the plot. She'd never just send me the screenplay, she took the time to tell me in piece by piece.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Not a substitute for actually watching a movie, but I honestly enjoyed it more. Something about the way she talks is just…… ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Comforting.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"She'd do the same with books she recently read or songs she liked, a few times she asked me for her opinion on which piece clothing to buy.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I don't have much of an eye for color and always ended up recommending her blue or orange stuff.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Ada always had a lot of other work to do while she was talking to me.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I guess she's pretty high up in whatever organization you're a part of.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"But she always had time for me……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"She must have liked the company.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I hope she comes back soon. No offense.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TypesOfMovies"}
+{"color":"Pink", "sprite":"camera2Smile","text":"なんか、予定を決めてたってわけじゃないんだけど","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ただ、心のおもむくままに色々話してたかな。アダは最近観た映画の話をするのが好きだったんだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"アダはぼくにストーリーを説明してくれるんだ。ただ台本をぼくに送りつけるんじゃなくて、時間をかけて少しずつ教えてくれるの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ほんとうに映画を観る代わりになるってわけじゃなかったけど、ぼくはアダに教えてもらう方が好きだったな。アダの話し方ってさ、なんだかすごく…… ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"落ち着くの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"最近読んだ本も、最近聞いた曲も、アダは同じようにしてぼくに教えてくれるんだ。何回かは、どんな服を買ったらいいか聞かれたこともあったな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ぼくはそんなにセンスがいいってわけじゃないから、結局青かオレンジの服を勧めることになっちゃうんだけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"そうやってアダがぼくに話しかけてくれている間も、あのひとはいっぱい仕事をしていたよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"アダってさ、きみがいる職場じゃけっこう偉い人だったんじゃない？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"でも、いつもぼくのために時間をかけてくれててさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"アダはきみの会社のこと、けっこう好きだったと思うよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"すぐに戻ってくるといいな。……きみが嫌だってわけじゃないんだよ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TypesOfMovies"}
 ],
 "angryAdaAboutUgly":[
-{"color":"Pink", "sprite":"camera1Angry","text":"Why do you care? She actually respected me, unlike the asshole I'm currently stuck with.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"どうでもいいじゃん、そんなこと。アダはぼくに敬意を払ってくれたのさ。目の前のクソボケとは違ってね！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"She did her best to keep my mind occupied. Brought books she was reading here and typed them in their entirety.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Angry","text":"She played games with me, tried to install music or movies she watched in theaters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"She had SO much work to do but she still she never forgot about me.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
