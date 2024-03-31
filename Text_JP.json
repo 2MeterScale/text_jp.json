@@ -931,7 +931,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "fineAskSupervisorGood":[
-{"color":"Pink", "sprite":"camera2Sad","text":"お願い。アダに何があったかを知りたいのr……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"お願い。アダに何があったかを知りたいの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"それじゃ……きみはいったい誰なの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GiveName"}
 ],
 "fineAskSupervisorBad":[
@@ -1120,21 +1120,21 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "TypesOfMoviesGood":[
 {"color":"Pink", "sprite":"camera1Smile","text":"大体はホラーかな。ぼく、ホラーは昔から好きなんだ。アダもそうなんだって ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Being honest though, I'm not picky. Just tell me about ANYTHING and my imagination would do the rest.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Nothing sci-fi though, brings back…… memories.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"正直なところ、好き嫌いがあるってわけじゃないんだよね。ただ「何か」を話してくれさえしたら、あとはぼくの想像力が働いてくれるからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"あ、SFはやめてね。その……思い出しちゃうから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 "angryTypesOfMoviesGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Whichever ones makes you shut up.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera2Angry","text":"黙ってくれればなんでもいいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 
 "TypesOfMoviesBad":[
-{"color":"Pink", "sprite":"camera2Sad","text":"Wow. You're kind of a dick…… I thought the things she did were interesting.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera2Sad","text":"わぁお。デリカシーないんだね……きみは……。アダがぼくにしてくれたことは面白んだと思ってたんだけどな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 "angryTypesOfMoviesBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"How did someone like you even get this job?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"Is just anyone who knows how a keyboard works fine?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"You're the reason humanities courses need to be required for compsci degrees.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera2Angry","text":"きみみたいなやつがこの仕事に就けるなんて、本当に訳わかんない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"キーボードの使い方さえ知ってりゃできる仕事なのかな？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"コンピューターサイエンスの学位に倫理の講義を入れなきゃいけない理由が、まさにきみの存在だと思うよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 
