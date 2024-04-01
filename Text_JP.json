@@ -1140,27 +1140,27 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "TypesOfMoviesUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"You got extra work your first day? Is it just Ada's old responsibilties. ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"What it is? Ada never told me that stuff.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"JobTold"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"初日からそんな量の仕事をやらなきゃいけないの？ アダの仕事の残りとか？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"なにそれ。アダはぼくにそんなこと教えてくれなかったよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"JobTold"}
 ],
 
 "JobTold": [
-{"name":"JobToldTrue", "text":"Nah it's new. Just some boring stuff."},
-{"name":"JobToldFalse", "text":"They have told me to do [REDACTED]"}
+{"name":"JobToldTrue", "text":"いや、新しい仕事だ。つまらない作業だよ"},
+{"name":"JobToldFalse", "text":"[編集済み]をやれって言われた"}
 ],
 
 "JobToldTrue":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Oh……  I guess work is work.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"……仕事は仕事だもんね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 "JobToldFalse":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Haha. Very funny.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But I know you just typed that out.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera1Smile","text":"面白いね、きみw","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"でも知ってるんだからね。きみがわざわざ[編集済み]ってタイプしたんだって","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 "angryTypesOfMoviesUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Extra work on the first day? Loser.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"I bet it isn't even important. I doubt anyone would trust you with as much responsibility as much as they trusted Ada.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaJob"}
+{"color":"Pink", "sprite":"camera2Angry","text":"初日に仕事を増やされたの？ ざまあみろ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"そんなの、誰でもできる仕事に決まってるでしょ。きみがアダと同じくらい信頼されて、同じくらいの責任を持つなんて、到底思えないもん","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaJob"}
 ],
 
 "AdaJob": [
