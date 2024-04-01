@@ -1242,15 +1242,15 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"論理的、現実的な話をすれば……「ここに来る前」のぼくは存在すらしなかったよ。シンシアの脳がこのパソコンのディスクにコピーされたから、ぼくがここにいるってだけで","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"でも、記憶の中のぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"ニューオルレアンで育って、スタンフォード大での給付型奨学金をもらって、ベイエリアに引っ越したんだ。I grew up in New Orleans but I moved to the Bay Area to attend Stanford on a full ride scholarship(給付型奨学金), of course. I was a computer science grad student there.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"By that point I was dedicating my life to defragmenting WAN…… I guess at that point we were still just calling her God. We were building a better world together. THIS world!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"We were going to connect EVERYONE! And we knew it was time once the internet had really started to take off!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I volunteered to be the first inside. I wanted to take the risk. I wanted to go down in history like Neil Armstrong did.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ぼくはニューオルレアンで育った。それからスタンフォード大の給付型奨学金をもらって、通学のためにベイエリアに引っ越したの。そこではコンピューターサイエンスを学んでてね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"あのときのぼくは、WANをデフラグすることに夢中になってた……あのときはまだ、WANのことは「神」と呼んでいたの。ぼくらはよりよい世界をともに作ろうとしていた。それが「こんな」世界だったとはね！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"全員を繋ぐはずだったんだよ、ぼくらは！ インターネットが芽を出しはじめた時代だったってのはよく分かってたんだ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"電脳の中に入る初めての人になるのだと、ぼくはそう志願した。たとえ危険だったとしても構いやしなかったの。ニール・アームストロングみたいに、歴史に残りたかった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"But then…… our work…… wasn't……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Good enough……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"And now the person who experienced all that is still out there. ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"And I exist in here too.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera2Sad","text":"でも……ぼくらの……その、これは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"十分じゃあ、なかった……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"それで今、この全てを経験した人はまだ外にいるし","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ぼくも、ここに在るんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "sadWhatWereYouLike":[
 {"color":"Pink", "sprite":"camera1Sad","text":"I wasn't. I was copied from Cynthia's brain.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
