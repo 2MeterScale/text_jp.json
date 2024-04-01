@@ -1239,10 +1239,10 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "fineWhatWereYouLike":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Logically and Realisitcally speaking…… I was nothing. I only came into existence when Cynthia's brain was copied to this hard drive.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"論理的、現実的な話をすれば……「ここに来る前」のぼくは存在すらしなかったよ。シンシアの脳がこのパソコンのディスクにコピーされたから、ぼくがここにいるってだけで","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"But in my memories……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I grew up in New Orleans but I moved to the Bay Area to attend Stanford on a full ride scholarship, of course. I was a computer science grad student there.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"でも、記憶の中のぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ニューオルレアンで育って、スタンフォードでをI grew up in New Orleans but I moved to the Bay Area to attend Stanford on a full ride scholarship(給付型奨学金), of course. I was a computer science grad student there.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"By that point I was dedicating my life to defragmenting WAN…… I guess at that point we were still just calling her God. We were building a better world together. THIS world!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"We were going to connect EVERYONE! And we knew it was time once the internet had really started to take off!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"I volunteered to be the first inside. I wanted to take the risk. I wanted to go down in history like Neil Armstrong did.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
