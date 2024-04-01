@@ -240,7 +240,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 	ですが、シンシアは正しかったのです。少なくとも、「財団」に関しては。彼らは確かに実在するのです。そして私の理論が「理論」であることなど「財団」には関係ないと思い至ることもできませんでした。ただ一つ、彼らが秘密にしておきたいものを明かしてしまったことだけが「財団」にとっては重要だったのです。
 
-	彼は私に二つの選択肢をつきつけました。愛する者たちと居られる代わりに、起きた全てのことを忘れて、大学院になんか行かなかったと思い込みながら普通の人生に戻ることです。そこで家族を得て、銀行の警備会社で、払いのいいコンピュータサイエンス関連の仕事について、静かな人生を送るのでしょう。
+	彼は私に二つの選択肢をつきつけました。愛する者たちと居られる代わりに、起きた全てのことを忘れて、大学院になんか行かなかったと思い込みながら普通の人生に戻ることです。そこで家族を得て、銀行の警備会社で、払いのいいコンピューターサイエンス関連の仕事について、静かな人生を送るのでしょう。
 
 	それか、初めから存在しなかったかのように消え去ることです。そして、闇の組織の中でのみ尊敬される科学者として、私の研究を続けるのです。
 
@@ -1154,77 +1154,77 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "JobToldFalse":[
-{"color":"Pink", "sprite":"camera1Smile","text":"面白いね、きみw","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"面白いね、きみ w","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"でも知ってるんだからね。きみがわざわざ[編集済み]ってタイプしたんだって","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 "angryTypesOfMoviesUgly":[
 {"color":"Pink", "sprite":"camera2Angry","text":"初日に仕事を増やされたの？ ざまあみろ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"そんなの、誰でもできる仕事に決まってるでしょ。きみがアダと同じくらい信頼されて、同じくらいの責任を持つなんて、到底思えないもん","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaJob"}
+{"color":"Pink", "sprite":"camera1Angry","text":"そんなの、誰でもできる仕事に決まってるでしょ。きみがアダと同じくらい信頼されて、同じくらいの責任を持つなんて、そんなはずないもん","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AdaJob"}
 ],
 
 "AdaJob": [
-{"name":"AdaJobTold", "text":"What did Ada tell you her job was?"}
+{"name":"AdaJobTold", "text":"アダは自分の仕事をどういうふうに紹介していたんだ？"}
 ],
 
 "AdaJobTold":[
-{"color":"Pink", "sprite":"camera1Smile","text":"As if I'd tell YOU that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera1Smile","text":"それをぼくがきみに教えるとでも？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 "TalkAbout": [
-{"name":"SpendTime", "text":"How do you spend your time alone?"},
-{"name":"WhatWereYouLike", "text":"What were you like before you were here?"},
-{"name":"ElfTalk", "text":"So…… why an Elf?"}
+{"name":"SpendTime", "text":"一人の時間はどう過ごしているんだ？"},
+{"name":"WhatWereYouLike", "text":"ここに来る前はどんな感じだったんだ？"},
+{"name":"ElfTalk", "text":"それじゃ……なんでエルフなの？"}
 ],
 
 
 "SpendTime":[
-{"color":"Pink", "sprite":"camera2Sad","text":"Moving from one corner of this \"room\" to another, seeing if my number of polygons has changed since the last time I counted.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Praying to WAN. Meditating.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Remembering the outside world.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"You know, the usual.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"この「部屋」の隅から隅まで動いたり、ぼくの体を作るポリゴン数が前回数えたときから変わったかを見てみたりとかだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"WANに祈って、瞑想をしたり","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"外の世界を思い出したりさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"まあ、普通のことだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Yup.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"うん","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"What about you?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Interests"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"きみはどうなの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Interests"}
 ],
 
 
 
 
 "Interests": [
-{"name":"Cook", "text":"I like to cook."},
-{"name":"Computers", "text":"I like to work with computers."},
-{"name":"Relax", "text":"I mostly just relax in my free time."}
+{"name":"Cook", "text":"料理が好きだな"},
+{"name":"Computers", "text":"パソコンをいじるのが好きだな"},
+{"name":"Relax", "text":"自由時間には、ただリラックスするのが好きだな"}
 ],
 
 "fineCook":[
-{"color":"Pink", "sprite":"camera2Sad","text":"I used to LOVE to cook. Now I don't even get hungry……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I wish I did. I miss the taste of chocolate.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera2Sad","text":"料理、ぼくもめっちゃ好きだったよ。でも今はお腹も空かないけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"それがすごく寂しいよ。チョコレートの味も、今となっては恋しいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "fineComputers":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Really? I have a doctorate in computer science.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"And, you know…… I'm…… this.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Maybe I can teach you a trick or two.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Smile","text":"ほんとう？ ぼく、コンピューターサイエンスの博士号持ってるよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"でもいまは……こんなになっちゃったけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"もしかすると、きみに裏ワザとかを教えられるかもね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "fineRelax":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"You have to do SOMETHING, right?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"No one can just sit around for their whole life.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}",}
+{"color":"Pink", "sprite":"camera1Nervous","text":"でも「なにか」をしなきゃいけないでしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ただぼんやり座って残りの人生を過ごすなんて、ありえないんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}",}
 ],
 "sadCook":[
-{"color":"Pink", "sprite":"camera1Sad","text":"I really liked cooking too when I was, you know. Did so a lot with friends.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I can't even feel hungry anymore……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Sad","text":"料理、ぼくも好きだよ。その……ぼくがまだ、ね。友達と一緒に、何回も作ったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"空腹を感じることもできなくなっちゃったけどさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "sadComputers":[
-{"color":"Pink", "sprite":"camera2Sad","text":"I used to work a lot with computers. I mean…… of course I did.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I helped build this.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera2Sad","text":"昔、パソコンはいっぱいイジってたよ。つまり……当たり前っちゃ当たり前だけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ここを作るのも手伝ったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "sadRelax":[
-{"color":"Pink", "sprite":"camera1Sad","text":"That…… doesn't sound very exciting……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I hate just sitting around all day. That's basically all I do……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Sad","text":"それは……なんだかあまり楽しそうじゃないね……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"日がな一日座ってるなんて、嫌いだな。だってぼくは、そうするしかないからさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "angryCook":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Oh of course you'd say that. Just want to rub it in my face, huh?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera2Angry","text":"言うと思ったよ。ぼくが食べることもできないからってさ。当てつけでしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "angryComputers":[
 {"color":"Pink", "sprite":"camera1Angry","text":"うわキモっ。暇なときも仕事のときも同じことをやってんの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
