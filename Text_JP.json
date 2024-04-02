@@ -1253,10 +1253,10 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Sad","text":"ぼくも、ここに在るんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "sadWhatWereYouLike":[
-{"color":"Pink", "sprite":"camera1Sad","text":"I wasn't. I was copied from Cynthia's brain.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"But I have her memories.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"She was from Louisiana. Moved to California for her degree. Was a computer science grad student.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Converted to what would eventually become Maxwellism…… and started building this.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"「前」なんてないよ。シンシアの脳みそからコピーされて生まれたんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"でも、シンシアの記憶はある","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ルイジアナ生まれで、大学のためにカリフォルニアに引っ越したの。シンシアはコンピューターサイエンス専攻の大学院生でね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"のちにマクスウェリズムになる宗教にへと改宗して……こんな物を作り始めたの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"When the internet started to pick up she was the first one to attempt to upload herself.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"It didn't work…… she's still out there…… probably. She stopped talking to me long ago.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
