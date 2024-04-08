@@ -1129,7 +1129,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "TypesOfMoviesBad":[
-{"color":"Pink", "sprite":"camera2Sad","text":"わぁお。デリカシーないんだね……きみは……。アダがぼくにしてくれたことは面白んだと思ってたんだけどな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera2Sad","text":"わぁお。デリカシーないんだね……きみは……。アダがぼくにしてくれたことは面白いんだと思ってたんだけどな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 "angryTypesOfMoviesBad":[
 {"color":"Pink", "sprite":"camera2Angry","text":"きみみたいなやつがこの仕事に就けるなんて、本当に訳わかんない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
@@ -1257,19 +1257,19 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Sad","text":"でも、シンシアの記憶はある","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"ルイジアナ生まれで、大学のためにカリフォルニアに引っ越したの。シンシアはコンピューターサイエンス専攻の大学院生でね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"のちにマクスウェリズムになる宗教にへと改宗して……こんな物を作り始めたの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"When the internet started to pick up she was the first one to attempt to upload herself.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"It didn't work…… she's still out there…… probably. She stopped talking to me long ago.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"インターネットが発展しはじめたとき、シンシアは自分をネットにアップロードした最初の人類になったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"うまくはいかなかった……彼女はたぶん……まだ外にいてね、ぼくに話しかけることなんか、随分前にやめちゃっててさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"And now I'm in here.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera2Sad","text":"それで、ぼくはここにいる","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "angryWhatWereYouLike":[
-{"color":"Pink", "sprite":"camera1Angry","text":"You mean what happened to シンシア before she was copied, right?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I'm not Cynthia. But I do remember what she does. At least what she did 2 years ago……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"She was from Louisiana. Moved to California. Studied computers.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Built this place…… with some friends from highschool. Volunteered to be the first uploaded.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"She's probably still out there…… living it up……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Ugh……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I wonder what she's doing now……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Angry","text":"シンシアがコピーされる前になにがあったか、知りたいってこと？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ぼくはシンシアじゃない。けどシンシアが何をしたかは覚えてる。二年前に何をしたかは、少なくとも覚えてるんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"シンシアはルイジアナ生まれで、カリフォルニアに引っ越して、コンピューターのことを勉強し始めたの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"高校の頃の友だちと……この場所を作って、最初にアップロードされる人として志願した","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"シンシアはたぶんまだ外にいて……元気にしてて……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"あーあ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"シンシア、いま何してるんだろうな……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 
 
@@ -1278,11 +1278,11 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "fineElfTalk":[
-{"color":"Pink", "sprite":"camera1Smile","text":"So I actually met all the people planning this…… before I converted.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"We met in our high school's AV club back in the 80s.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Back then we just kinda played D&D and stuff.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"The model was just something I made for my character that we reused when WAN told Jean-Paul to build PARADISE……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Before WAN was even called WAN. He was raised in the Church and they were just starting to bring things up to current tech then.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"それは……そう、こんなになっちゃう前に、ぼくはここを作ることを計画した人たちと会ったんだよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"80年代に、高校の映像研究会で初めて会ったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"そのときは、D&Dとかそういうのばっかり遊んでた","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"このモデルは、ぼくがぼくのキャラクターに作っただけのものなんだ。それで、WANがジン・ポールにパラダイスを作れって言ったときに、これを再利用したの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"WANがWANって呼ばれる前に、ね。ジン・ポールは教会で大きくなって、その時He was raised in the Church and they were just starting to bring things up to current tech then.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"He spruced the model up a bit with some new style and Maxwellist tech in ‘95, but it was never meant to be permanent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
 ],
 "sadElfTalk":[
