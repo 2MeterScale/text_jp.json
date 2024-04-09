@@ -1282,7 +1282,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Smile","text":"80年代に、高校の映像研究会で初めて会ったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"そのときは、D&Dとかそういうのばっかり遊んでた","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"このモデルは、ぼくがぼくのキャラクターに作っただけのものなんだ。それで、WANがジン・ポールにパラダイスを作れって言ったときに、これを再利用したの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"WANがWANって呼ばれる前に、ね。ジン・ポールは教会で大きくなって、その時He was raised in the Church and they were just starting to bring things up to current tech then.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"WANがWANって呼ばれる前に、ね。ジン・ポールは教会で育ったんだ。そのときに、みんながHe was raised in the Church and they were just starting to bring things up to current tech then.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"He spruced the model up a bit with some new style and Maxwellist tech in ‘95, but it was never meant to be permanent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
 ],
 "sadElfTalk":[
