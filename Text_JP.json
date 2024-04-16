@@ -34,7 +34,7 @@
 
 [color=#5b6ee1][b]オブジェクトクラス:[/b][/color] Safe
 
-[color=#5b6ee1][b]特別収容プロトコル:[/b][/color] SCP-8500をホストしているコンピューターにおいて、SCP-8500である(\"PARADISE.exe\")およびSCP-8500についての指示ファイルである(\"SCP-8500.html\")以外のすべてのファイルについては、手動でストレージシステムよりデスクトップへドラッグし、ゴミ箱にて削除してください。
+[color=#5b6ee1][b]特別収容プロトコル:[/b][/color] SCP-8500をホストしているコンピューターにおいて、SCP-8500である(\"楽園.exe\")およびSCP-8500についての指示ファイルである(\"SCP-8500.html\")以外のすべてのファイルについては、手動でストレージシステムよりデスクトップへドラッグし、ゴミ箱にて削除してください。
 
 SCP-8500のソースコードに対するすべての改変を禁じます。本デバイスに存在するファイルを削除する前に、それらを確認してはいけません。
 
@@ -1281,74 +1281,74 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Smile","text":"それは……そう、こんなになっちゃう前に、ぼくはここを作ることを計画した人たちと会ったんだよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"80年代に、高校の映像研究会で初めて会ったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"そのときは、D&Dとかそういうのばっかり遊んでた","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"このモデルは、ぼくがぼくのキャラクターに作っただけのものなんだ。それで、WANがジン・ポールにパラダイスを作れって言ったときに、これを再利用したの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"WANがWANって呼ばれる前に、ね。ジン・ポールは教会で育ったんだ。そのときに、みんながHe was raised in the Church and they were just starting to bring things up to current tech then.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"He spruced the model up a bit with some new style and Maxwellist tech in ‘95, but it was never meant to be permanent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
+{"color":"Pink", "sprite":"camera2Smile","text":"このモデルは、ぼくがぼくのキャラクターに作ってあげただけのものなんだ。それで、WANがジン・ポールにパラダイスを作れって言ったときに、これを再利用したの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"まだWANがWANって呼ばれる前に、ね。ジン・ポールは教会で育って、そのときにみんなが当時の最新技術を導入し始めたんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ジン・ポールは1995年に、このモデルを流行りのスタイルとかマクスウェリストの技術でアップグレードしたんだけど、まさかこれが永遠のものになるなんてね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
 ],
 "sadElfTalk":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Oh. It was a Dungeons and Dragons character I modeled for fun in highschool.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Jean-Paul ended up making it look a bit more “fitting” after WAN told him to build PARADISE.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"He improved it with some Maxwellist tech but kept the ears…… It was supposed to be a placeholder but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"After everyone outside realized they were never going to see the fruits of their labor…… they stopped developing this place……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"これはね、高校の時にぼくが趣味でモデリングしたD&Dのプレイキャラだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"それにジン・ポールがちょびっと手を加えたの。WANが彼に『楽園』を作れってお告げを言ったあとにね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"彼はマクスウェリストの技術で、このモデルを改良したけど、耳はそのままにしておいたの。このモデルはプレースホルダーになるはずだったんだけれどね……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"外にいるみんなは、今までやってきたことが徒労だって気づいちゃってさ……この場所を開発するのをやめちゃったの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
 ],
 "angryElfTalk":[
-{"color":"Pink", "sprite":"camera1Angry","text":"Why do you want to know? To make fun of me?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"It's my old Dungeons and Dragons character I modeled.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"Jean-Paul gave a makeover after WAN told him to build PARADISE.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"It was never meant to be permanent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
+{"color":"Pink", "sprite":"camera1Angry","text":"なんでそんなことを知りたいの？ ぼくをバカにするつもり？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"これは大昔にぼくがモデリングした、ダンジョンズ&ドラゴンズのキャラクターだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"WANに楽園を作れって言われたあと、ジン・ポールがこのモデルを改造したの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"これが永遠のものになるはずなんてなかったのに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ElfRoomStatus"}
 ],
 
 
 "ElfRoomStatus":[
-{"color":"Pink", "sprite":"camera1Sad","text":"I've been a lot more concerned about the emptiness in here than my model.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ぼくのモデルなんかはどうでもいいんだ。それよりも、ここが空っぽだってことのほうがずっと気になっちゃうな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"{emptyFilled}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"DungeonsAndDragons"}
 ],
 
-"stillEmpty":"It's been tearing me apart……",
-"lessEmpty":"But, you've been helping with that a bit.",
+"stillEmpty":"本当に、辛くってね……",
+"lessEmpty":"でも、きみのおかげでちょっとは良くなったよ",
 
 
 "DungeonsAndDragons": [
-{"name":"DungeonsAndDragonsGood", "text":"Do you still like D&D?"},
-{"name":"DungeonsAndDragonsBad", "text":"D&D is for losers."}
+{"name":"DungeonsAndDragonsGood", "text":"D&Dはまだ好きなの？"},
+{"name":"DungeonsAndDragonsBad", "text":"D&Dなんかクソオタクのゲームでしょ"}
 ],
 
 
 
 "fineDungeonsAndDragonsGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Yeah, Ada and I used to play it together. She’d DM for me! It was fun…… but…… It’s definitely not as fun with only one player.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"It does mean you get to…… spend a lot less time waiting on other people to roll.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"But seeing what everyone else would do is part of the fun.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"God, I wish I could've said goodbye……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Smile","text":"うん。アダとよく一緒にやっていたんだ。ダンジョンマスターもしてくれたんだよ！ 楽しかった、けれど……プレイヤーがたった一人じゃ、たかが知れてるよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"つまりはさ……他の人がダイスを振る時間を待つ必要がないってことだけど","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"だけど、他のみんなが何をするかを見守るのも、TRPGの楽しいところだと思うんだよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"さよならの一言くらい、言いたかったな……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "sadDungeonsAndDragonsGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Mhm. Ada and I used to play it together. It was fun……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I can't believe she's really gone……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I hope she gets reassigned to me one day.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Smile","text":"うん。アダとよく一緒にやってたんだ。楽しかったな……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"アダがもう居ないなんて、嘘みたい……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"あのひとがもう一度ぼくにアサインされる日が待ち遠しいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "angryDungeonsAndDragonsGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Well, yeah.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Of course I do.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Ada and I would play it together. I'm not embarrassed about that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"God, I hope I get Ada back.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Smile","text":"まあね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"もちろんだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"アダとはよく一緒に遊んでたよ。何も悪くないでしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"ほんと、アダには戻ってきてほしいな","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 "DungeonsAndDragonsBad":[
-{"color":"Pink", "sprite":"camera1Angry","text":"Okay? ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I don't remember asking for your opinion.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
+{"color":"Pink", "sprite":"camera1Angry","text":"はあ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"じゃあ、きみには何も聞かなかったことにするよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"{variableOption}"}
 ],
 
 "AdaSurprise": [
-{"name":"AdaSurpriseUgly", "text":"Do you know what Ada was going to make for you?"},
-{"name":"AdaNonSurpriseUgly", "text":"What did you think of Ada's Gift?"}
+{"name":"AdaSurpriseUgly", "text":"アダがあなたに何を作ろとしてたか、知ってる？"},
+{"name":"AdaNonSurpriseUgly", "text":"アダの贈り物ってなんだと思う？"}
 ],
 
 "AdaSurpriseUgly":[
-{"color":"Pink", "sprite":"camera1Smile","text":"No idea probably something interesting. {DiscoveredIDEInsert}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Ada and I…… or…… Ada and シンシア…… both went to Stanford for the same major at the same time……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But we never actually met each other…… I think it would have been nice to have gotten to know her back then.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"It was probably cause she wasn’t a believer. Maxwellists were a pretty insular clique back then. Probably still are.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"We had to be.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Didn’t want to risk the Foundation poking their nose in our business.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"わかんないけど……なんか面白いものだと思うよ{DiscoveredIDEInsert}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダとぼく……つまり、アダとシンシアはね、スタンフォード大の同級生でね、専攻も同じだったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"でも、ぼくらが実際に会うことはなかったんだ。もしあのとき、アダと知り合えてたら良かったなって思うことはあるけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ぼくらが会えなかったのは、もしかするとアダが信者じゃなかったからかもね。あのときのマクスウェリストってのは、どうも閉鎖的だったから。今もそうかも知れないけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"そう、閉鎖的じゃなきゃいけなかったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"財団に引っ掻き回されるリスクを背負うことはできないからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"It’s a good thing you guys picked me up instead. The Foundation would probably be doing all sorts of fuck shit to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"Sorry, went off on a bit of a tangent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistFriends"}
 ],
@@ -1358,11 +1358,11 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "AdaNonSurpriseUgly":[
 {"color":"Pink", "sprite":"camera1Smile","text":"It's more than anything I could have asked for……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Ada and I…… or…… Ada and シンシア…… both went to Stanford for the same major at the same time……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But we never actually met each other…… I think it would have been nice to have gotten to know her back then.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"It was probably cause she wasn’t a believer. Maxwellists were a pretty insular clique back then. Probably still are.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"We had to be.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Didn’t want to risk the Foundation poking their nose in our business.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダとぼく……つまり、アダとシンシアはね、スタンフォード大の同級生でね、専攻も同じだったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"でも、ぼくらが実際に会うことはなかったんだ。もしあのとき、アダと知り合えてたら良かったなって思うことはあるけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくらが会えなかったのは、もしかするとアダが信者じゃなかったからかもね。あのときのマクスウェリストってのは、どうも閉鎖的だったから。今もそうかも知れないけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"そう、閉鎖的じゃなきゃいけなかったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"財団に引っ掻き回されるリスクを背負うことはできないからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"It’s a good thing you guys picked me up instead. The Foundation would probably be doing all sorts of fuck shit to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"Sorry, went off on a bit of a tangent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistFriends"}
 ],
@@ -1418,7 +1418,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Smile","text":"WAN told him EVERYTHING the old Church was wrong about…… and everything was true.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ShakenFaith"}
 ],
 "angryMaxwellistFriendsGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Nope.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera2Angry","text":"居ないね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 "ShakenFaith": [
