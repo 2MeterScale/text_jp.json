@@ -1430,19 +1430,19 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 "ShakenFaithUgly":[
 {"color":"Pink", "sprite":"camera1Nervous","text":"いや、それは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"それは違うの。ヒューマンエラーだったんだよ。ほら、人間って完璧じゃなくて、欠点があるからさ。ぼくらはただ……つまらないミスをしただけなんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"WAN wouldn’t have told Jean-Paul to build PARADISE if it were impossible. WAN wouldn’t have done that to us.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"WAN wouldn’t have done that to ME!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"WAN is GOOD.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"WAN wants the best for us.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"CultLeaderJeanPaul"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"「楽園」をつくるのがそもそも無理ならWANがジン・ポールにそうしろって言うわけないじゃん。WANはそんなことしないよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"そんなこと、WANがぼくにするわけないんだよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"えっと……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"WANは良いの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"WANはぼくらにできる限りのことをしてくれたんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"CultLeaderJeanPaul"}
 ],
 "ShakenFaithGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"It…… it really WAS cool…… wasn’t it?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera1Smile","text":"そう……よかったんだよ。でしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 
 "CultLeaderJeanPaul": [
-{"name":"ChangeSubject", "text":"Right, sorry."},
+{"name":"ChangeSubject", "text":"そうだな。すまない"},
 {"name":"CultLeaderJeanPaulUgly", "text":"What if it wasn’t in your best interests?"}
 ],
 
@@ -1461,7 +1461,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "ContinueForwardHuh":[
-{"name":"ContinueForwardHuhUgly", "text":"Huh."}
+{"name":"ContinueForwardHuhUgly", "text":"はあ"}
 ],
 
 "fineContinueForwardHuhUgly":[
