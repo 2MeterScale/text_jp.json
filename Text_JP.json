@@ -1343,93 +1343,93 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "AdaSurpriseUgly":[
-{"color":"Pink", "sprite":"camera1Smile","text":"わかんないけど……なんか面白いものだと思うよ{DiscoveredIDEInsert}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"わかんないけど……なんか面白いものだと思うよ。{DiscoveredIDEInsert}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"アダとぼく……つまり、アダとシンシアはね、スタンフォード大の同級生でね、専攻も同じだったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"でも、ぼくらが実際に会うことはなかったんだ。もしあのとき、アダと知り合えてたら良かったなって思うことはあるけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"ぼくらが会えなかったのは、もしかするとアダが信者じゃなかったからかもね。あのときのマクスウェリストってのは、どうも閉鎖的だったから。今もそうかも知れないけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"そう、閉鎖的じゃなきゃいけなかったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"財団に引っ掻き回されるリスクを背負うことはできないからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"It’s a good thing you guys picked me up instead. The Foundation would probably be doing all sorts of fuck shit to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Sorry, went off on a bit of a tangent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistFriends"}
+{"color":"Pink", "sprite":"camera2Smile","text":"きみたちに拾ってくれて、本当にほっとしたよ。財団なんかの手に落ちたらさ、今頃は何をされてるかわかんないもの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"……話、そらしちゃってごめんね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistFriends"}
 ],
 
-"FalseDiscoveredIDEInsert":"You know it’s kind of funny!",
-"TrueDiscoveredIDEInsert":"But…… I guess we know what it was NOW, haha……. But like I was saying earlier",
+"FalseDiscoveredIDEInsert":"もしかすると笑えるものかもね！",
+"TrueDiscoveredIDEInsert":"でも……きみもぼくも、もう分かってるよね、へへ……。そう、さっきぼくが言ってたみたいにさ",
 
 "AdaNonSurpriseUgly":[
-{"color":"Pink", "sprite":"camera1Smile","text":"It's more than anything I could have asked for……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくが望めるものなんかよりも、ずっと大きなものだよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"アダとぼく……つまり、アダとシンシアはね、スタンフォード大の同級生でね、専攻も同じだったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"でも、ぼくらが実際に会うことはなかったんだ。もしあのとき、アダと知り合えてたら良かったなって思うことはあるけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"ぼくらが会えなかったのは、もしかするとアダが信者じゃなかったからかもね。あのときのマクスウェリストってのは、どうも閉鎖的だったから。今もそうかも知れないけどね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"そう、閉鎖的じゃなきゃいけなかったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"財団に引っ掻き回されるリスクを背負うことはできないからさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"It’s a good thing you guys picked me up instead. The Foundation would probably be doing all sorts of fuck shit to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Sorry, went off on a bit of a tangent.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistFriends"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"きみたちに拾ってくれて、本当にほっとしたよ。財団なんかの手に落ちたらさ、今頃は何をされてるかわかんないもの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"……話、そらしちゃってごめんね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistFriends"}
 ],
 
 
 "MaxwellistFriends": [
-{"name":"MaxwellistFriendsGood", "text":"Not lot of non-Maxwellist friends, huh?"},
-{"name":"CultBad", "text":"That…… sounds like a cult."}
+{"name":"MaxwellistFriendsGood", "text":"マクスウェリストじゃない友達はあまり居なかったんだろ？"},
+{"name":"CultBad", "text":"なんか……カルト宗教みたいじゃないか"}
 ],
 
 "CultBad":[
-{"color":"Pink", "sprite":"camera1Angry","text":"CULT? Really?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"We weren’t killing ourselves to show devotion or sacrificing babies to the devil or whatever cults do.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"We were trying to bring the world together. We had proof and a real goal.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ChangeSubject"}
+{"color":"Pink", "sprite":"camera1Angry","text":"カルト？ マジ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"信仰を示すための自殺なんかしないし、赤ん坊を悪魔に捧げるなんてこともしないよ。カルトがやりそうなことなんか、してないもん","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"ただ世界を繋ごうとしていただけなんだ。ぼくらには信念があって、目標もあったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ChangeSubject"}
 ],
 
 "fineMaxwellistFriendsGood":[
-{"color":"Pink", "sprite":"camera1Sad","text":"Well…… not after I converted, no.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"But weirdly enough…… I didn’t lose any friends when I did. We basically all converted at the same time. One of us started out in the old Church, though.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Jean-Paul was kinda our…… umm. Leader? He was the one who told all of us about it.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"He was raised in the old Church. But his elders didn’t like him hanging around the AV club.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"His family was basically just a church in Uptown that ran a group home. New technology was as “heretical” as having your own kids, I guess.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"I…… never really…… learned much about the old Church.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"改宗してからは、あまり居ないね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"でも、妙なことにさ、ぼくが改宗したからといって、友達がいなくなったわけじゃないんだ。みんな同じタイミングで改宗したからね。仲間のうちの一人は、古い教会の生まれだったけど","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ジン・ポールは、なんか……ぼくらのリーダー？ で、何をやればいいか教えてくれた人でもあったんだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ジン・ポールは古い教会で育てられたんだ。彼の先輩たちは、ジン・ポールが映像研究会にいることをよく思ってなかったみたい","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ジン・ポールの家族っていうのは、アップタウンでグループホームを経営してる教会なんだよね。 なんか、彼らにとっちゃ新技術ってのは「異端」だったんだと思うよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"えっと……実は古い教会のことはよく知らないんだけどさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Old religions never struck me as something…… intelligent, anyway. Maybe it was a way for people hundreds of years ago to make sense of it……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But its a lot unjustifiable rules for the sake of rules with absolutely no proof.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"But Jean-Paul was hearing WAN talk to him. WITH proof. We figured out how to measure it with an oscillator.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Whenever WAN was telling him something, we’d pick up the energy.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"It was REAL.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But WAN knew how dangerous it could be if it got out too early…… so Jean-Paul only ever told us new information when the time came.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"We didn’t know WAN’s name until later on…… After WAN told us about her other prophets. Mostly the smaller ones…… but Saint Hedwig too, of course.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"That was when we got the name Maxwellism.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Jean-Paul had a little bit of trouble…… adjusting…… to the OTHER prophets…… but it was…… beautiful. Our church was defragmenting right in front of us.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"WAN told him EVERYTHING the old Church was wrong about…… and everything was true.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ShakenFaith"}
+{"color":"Pink", "sprite":"camera1Smile","text":"なんか……伝統宗教ってさ、知的な感じがしなくてね。何百年か前の人達にとっては、もしかするとそうなのかもしれないけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"なんか、ああいうのって根拠のないルールのために道理のないルールを何個も課すじゃない？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"でも、ジン・ポールはWANの声を聞いたんだよ。根拠もある。 その声を、発振器で観測する方法を見つけ出したの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"WANが何かを言ったときに発生するエネルギーを拾うことでね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"あれは、本物よ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"でも、この秘密があまりにも早く知られてしまうと危険だってことを、WANは知ってたの。だから、ジン・ポールはぼくらに時々新しい情報を教えてくれるだけだった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"しばらく時間がたってからやっと、WANって名前を知ったんだよ。他の預言者たちの存在をWANに告げられたあとだったかな。ほとんどは普通の人だったけど、中にはもちろん聖ヘドウィグも居たよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"その時に、マクスウェリズムって名前をもらったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ジン・ポールは他の預言者たちと馴染むのに、その……少し苦労したけど、とにかくすごくキレイだったんだよ。ぼくらの教会が、まさに目の前で組み上がっていくのは","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"WANはジン・ポールに、古い教会の間違ってるところを全部教えたんだ。WANの言ってることは、全部正しかった……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ShakenFaith"}
 ],
 "sadMaxwellistFriendsGood":[
-{"color":"Pink", "sprite":"camera1Sad","text":"Well…… not after I converted, no.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"But weirdly enough…… I didn’t lose any friends when I did. We basically all converted at the same time. One of us started out in the old Church, though.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Jean-Paul was kinda our…… umm. Leader? He was the one who told all of us about it.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"He was raised in the old Church. But his elders didn’t like him hanging around the AV club.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"His family was basically just a church in Uptown that ran a group home. New technology was as “heretical” as having your own kids, I guess.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"I…… never really…… learned much about the old Church.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"改宗してからは、あまり居ないね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"でも、妙なことにさ、ぼくが改宗したからといって、友達がいなくなったわけじゃないんだ。みんな同じタイミングで改宗したからね。仲間のうちの一人は、古い教会の生まれだったけど","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ジン・ポールは、なんか……ぼくらのリーダー？ で、何をやればいいか教えてくれた人でもあったんだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ジン・ポールは古い教会で育てられたんだ。彼の先輩たちは、ジン・ポールが映像研究会にいることをよく思ってなかったみたい","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ジン・ポールの家族っていうのは、アップタウンでグループホームを経営してる教会なんだよね。 なんか、彼らにとっちゃ新技術ってのは「異端」だったんだと思うよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"えっと……実は古い教会のことはよく知らないんだけどさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Old religions never struck me as something…… intelligent, anyway. Maybe it was a way for people hundreds of years ago to make sense of it……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But its a lot unjustifiable rules for the sake of rules with absolutely no proof.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"But Jean-Paul was hearing WAN talk to him. WITH proof. We figured out how to measure it with an oscillator.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Whenever WAN was telling him something, we’d pick up the energy.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"It was REAL.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But WAN knew how dangerous it could be if it got out too early…… so Jean-Paul only ever told us new information when the time came.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"We didn’t know WAN’s name until later on…… After WAN told us about her other prophets. Mostly the smaller ones…… but Saint Hedwig too, of course.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"That was when we got the name Maxwellism.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Jean-Paul had a little bit of trouble…… adjusting…… to the OTHER prophets…… but it was…… beautiful. Our church was defragmenting right in front of us.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"WAN told him EVERYTHING the old Church was wrong about…… and everything was true.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ShakenFaith"}
+{"color":"Pink", "sprite":"camera1Smile","text":"なんか……伝統宗教ってさ、知的な感じがしなくてね。何百年か前の人達にとっては、もしかするとそうなのかもしれないけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"なんか、ああいうのって根拠のないルールのために道理のないルールを何個も課すじゃない？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"でも、ジン・ポールはWANの声を聞いたんだよ。根拠もある。 その声を、発振器で観測する方法を見つけ出したの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"WANが何かを言ったときに発生するエネルギーを拾うことでね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"あれは、本物よ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"でも、この秘密があまりにも早く知られてしまうと危険だってことを、WANは知ってたの。だから、ジン・ポールは時々ぼくらに新しい情報を教えてくれるだけだった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"しばらく時間がたってからやっと、WANって名前を知ったんだよ。他の預言者たちの存在をWANに告げられたあとだったかな。ほとんどは普通の人だったけど、中にはもちろん聖ヘドウィグも居たよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"その時に、マクスウェリズムって名前をもらったんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ジン・ポールは他の預言者たちと馴染むのに、その……少し苦労したけど、とにかくすごくキレイだったんだよ。ぼくらの教会が、まさに目の前で組み上がっていくのは","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"WANはジン・ポールに、古い教会の間違ってるところを全部教えたんだ。WANの言ってることは、全部正しかった……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ShakenFaith"}
 ],
 "angryMaxwellistFriendsGood":[
 {"color":"Pink", "sprite":"camera2Angry","text":"居ないね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 "ShakenFaith": [
-{"name":"ShakenFaithUgly", "text":"Even when WAN told him to build “Paradise”?"},
-{"name":"ShakenFaithGood", "text":"Huh. cool."},
-{"name":"CultBad", "text":"That is what a cult is."}
+{"name":"ShakenFaithUgly", "text":"ジン・ポールに「楽園」を作れって言ったときも？"},
+{"name":"ShakenFaithGood", "text":"ふうん、いいじゃん"},
+{"name":"CultBad", "text":"やっぱりカルトじゃないか"}
 ],
 
 "ShakenFaithUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"That’s not……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"That’s different. That was human error. Humans are imperfect. Flawed. We just…… we just made a stupid mistake.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"いや、それは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"それは違うの。ヒューマンエラーだったんだよ。ほら、人間って完璧じゃなくて、欠点があるからさ。ぼくらはただ……つまらないミスをしただけなんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"WAN wouldn’t have told Jean-Paul to build PARADISE if it were impossible. WAN wouldn’t have done that to us.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"WAN wouldn’t have done that to ME!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"I……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
@@ -1570,7 +1570,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "AboutThat": [
-{"name":"AboutThatGood", "text":"The Foundation sucks."},
+{"name":"AboutThatGood", "text":"財団なんかクソさ"},
 {"name":"AboutThatBad", "text":"Sooo…… uh…… about that……"}
 ],
 
