@@ -1443,21 +1443,21 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "CultLeaderJeanPaul": [
 {"name":"ChangeSubject", "text":"そうだな。すまない"},
-{"name":"CultLeaderJeanPaulUgly", "text":"What if it wasn’t in your best interests?"}
+{"name":"CultLeaderJeanPaulUgly", "text":"君たちのことなんかどうでもいいって、もしWANが思ってたら？"}
 ],
 
 
 "CultLeaderJeanPaulUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"STOP! STOP SAYING STUPID FUCKING THINGS LIKE THAT!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"What is WRONG with you?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"You’re just completely fine saying the most ridiculous shit anyone’s ever said?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"OF COURSE IT WAS! WAN WOULDN’T……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Jean-Paul wouldn’t……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"やめてよ！ そんなバカなこと言わないで！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"急にどうしたのよ！？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"そんなこと言うだけ言って、なんとも思わないわけ！？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"そんなこと当たり前でしょ！ WANだって……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"ジン・ポールだって……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"ChangeSubject"}
 ],
 
 "ChangeSubject":[
-{"color":"Pink", "sprite":"camera2Sad","text":"I…… I  want to talk about something else now. Please.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
+{"color":"Pink", "sprite":"camera2Sad","text":"えっと……ちょっと別のことを話したいかも……ね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TalkAbout"}
 ],
 
 "ContinueForwardHuh":[
@@ -1465,13 +1465,13 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "fineContinueForwardHuhUgly":[
-{"color":"Pink", "sprite":"camera1Sad","text":"But…… You know……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"yeahResponse"}
+{"color":"Pink", "sprite":"camera1Sad","text":"でも……ほら……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"yeahResponse"}
 ],
 "sadContinueForwardHuhUgly":[
-{"color":"Pink", "sprite":"camera2Sad","text":"But…… You know……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"yeahResponse"}
+{"color":"Pink", "sprite":"camera2Sad","text":"でも……ほら……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"yeahResponse"}
 ],
 "angryContinueForwardHuhUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Can we be done with this fucking conversation already?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"yeahResponse"}
+{"color":"Pink", "sprite":"camera2Angry","text":"こんなつまらない会話、もうおしまいにしない？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"yeahResponse"}
 ],
 
 "yeahResponse": [
@@ -1488,7 +1488,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "FavoriteColors": [
-{"name":"FavoriteColorsUgly", "text":"What are your favorite colors?"}
+{"name":"FavoriteColorsUgly", "text":"好きな色は何色かな？"}
 ],
 
 "FavoriteColorsUgly":[
