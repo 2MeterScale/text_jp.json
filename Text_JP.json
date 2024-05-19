@@ -1475,15 +1475,15 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "yeahResponse": [
-{"name":"RequiresBlowAWish", "text":"Where would you rather be right now?"},
-{"name":"yeahSkip", "text":"Yeah……"}
+{"name":"RequiresBlowAWish", "text":"もしどこかに行けるなら、行きたい場所はある？"},
+{"name":"yeahSkip", "text":"そうだね……"}
 ],
 
 "RequiresBlowAWish":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Oh god. Outside , for one……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"But…… I also just…… I want to be home. In my bedroom. Resting, finally.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"That’s another thing about this that sucks. I’m never able to rest. I’ve been concious for two years now. Two years straight.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I’m tired. And I want something to DO!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"FavoriteColors"}
+{"color":"Pink", "sprite":"camera1Smile","text":"そりゃもちろん、「外」だよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"でも……普通に家に帰ってさ、ベッドの上でぼんやりしたいな……結局はそれがいいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"こんなところじゃ、休めもしないよ。そういうところが本当に嫌。だって、ぼくはもう二年間も起きっぱなしなんだよ。二年間、一睡もせずにね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"もちろん、試してみたさ。ただ、なにかやることがほしいだけなんだ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"FavoriteColors"}
 ],
 
 
@@ -1492,16 +1492,16 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "FavoriteColorsUgly":[
-{"color":"Pink", "sprite":"camera2Smile","text":"I guess…… I like orange…… Blue…… Green…… But really, as long as the colors go nicely together I’ll be happy.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Honestly, I’ll be happy with ANYTHING new. This is the first time I've seen Blue in 2 years.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistStuff"}
+{"color":"Pink", "sprite":"camera2Smile","text":"えっと……オレンジとか、青とか、緑とか……でも、しっくり来る感じの色なら、実際どれでも嬉しいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"正直、新しいものならなんでもいいよ。今日、ぼくは二年ぶりに青色を見たもんだからさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistStuff"}
 ],
 
 "MaxwellistStuff": [
-{"name":"MaxwellistStuffUgly", "text":"Do you like the Maxwellist stuff?"}
+{"name":"MaxwellistStuffUgly", "text":"マクスウェリスト的なやつ、好きなの？"}
 ],
 
 "MaxwellistStuffUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"You mean like the room Ada set up for me? It’s amazing! I mean…… Well…… I can tell she tried","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダがぼくのために作ってくれた部屋のこと？ そりゃもちろんだよ！ You mean like the room Ada set up for me? It’s amazing! I mean…… Well…… I can tell she tried","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"I can also tell she doesn’t understand Maxwellism.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"I never liked those…… random ass circuit board patterns Jean-Paul was so insistent on. They didn’t…… do anything.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"Just aesthetically pleasing circuits that terminate into nothing?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
