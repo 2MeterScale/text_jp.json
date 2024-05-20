@@ -1517,15 +1517,15 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "yeahSkip":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"You know this is…… kind of unrelated but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"JeanPaulSkip"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"えっと、ちょっと関係ない話になるんだけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"JeanPaulSkip"}
 ],
 
 "fineJeanPaulSkip":[
-{"color":"Pink", "sprite":"camera1Sad","text":"It’s kind of funny.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Right before this happened…… Jean-Paul asked for volunteers. And I was the ONLY ONE who agreed to go through with it……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I was also the only one to have a degree in this field.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"I KNEW it would be impossible to transfer my brain over cleanly. I know how data “transfer” works. I know the physical limitations of reality.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"But for some reason…… There was…… there was this…… feeling……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"なんかさ、変だよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"ぼくがこんなになっちゃう前、ジン・ポールは志願者を募ったんだよ。それで、ぼく一人だけが立候補しちゃったってわけでさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ぼく一人だけが、この分野で学位を持ってるもんだったから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"ぼくの脳を完全に転送するなんて、できっこないんだ。分かってたんだよ、そんなことは。「データ転送」の仕組みくらいは把握してる。現実世界の法則の限界も、当然知ってる","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"でも、なぜか……こう、行けるって気になっちゃって……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"telling me everything was going to be okay.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"I still can’t shake it. I can’t wrap my mind around why I think it SHOULD HAVE worked.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"It feels like there’s some explanation there that…… I can’t…… picture.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
