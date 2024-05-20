@@ -48,7 +48,7 @@ SCP-8500は、1000個程度までの電子化された意識を維持し、更�
 
 本インシデントは、SCP-8500-1の誕生にに直結しました。SCP-8500-1は、SCP-8500における唯一の住人です。SCP-8500-1は1995年においてのPoI-8000-1(\"シンシア・レン\")の脳の完全なコピーです。PoI-8000-1にはGoI-004C-8000の追従者であった経歴があります。本インシデントにおいては非異常性のデータ移行が実施されたため、SCP-8500は意識の完全な転送を行えず、与えられた情報を複写するのみでした。SCP-8500内において、SCP-8500-1は、SCP-8500内にて、1995年における発生から2年の間、活動をしています。
 
-SCP-8500がインストールされているデバイスは、電子決済システムに関連するスタートアップ企業である\"e-xchange.com\"に対する、本企業とGoI-004Cの関連性が明らかになったじ後においての、本企業のベイエリア・オフィスに対する、財団による襲撃時に回収されました。本オブジェクトはPoI-8000-2(\"ジン・ポール・ミルラ\")の執務室にて発見されました。PoI-8000-2はGoI-004C-8000の前指導者であり、\"e-xchange.com\"のCEOでもありました。SCP-8500とともに、膨大な数の異常技術が回収されました。財団によって本企業のすべての従業員は記憶処理され、各人の通常の生活に復帰させられました。",
+SCP-8500がインストールされているデバイスは、電子決済システムに関連するスタートアップ企業である\"e-xchange.com\"に対する、本企業とGoI-004Cの関連性が明らかになった後においての、本企業のベイエリア・オフィスに対する、財団による襲撃時に回収されました。本オブジェクトはPoI-8000-2(\"ジン・ポール・ミルラ\")の執務室にて発見されました。PoI-8000-2はGoI-004C-8000の前指導者であり、\"e-xchange.com\"のCEOでもありました。SCP-8500とともに、膨大な数の異常技術が回収されました。財団によって本企業のすべての従業員は記憶処理され、各人の通常の生活に復帰させられました。",
 "SCPTextImage":"およそ1997年におけるシンシア・レン。SCP-8500-1の創造より2年後。",
 "PARADISE": "楽園.exe",
 "SHELL": "SHELL",
@@ -1493,7 +1493,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "FavoriteColorsUgly":[
 {"color":"Pink", "sprite":"camera2Smile","text":"えっと……オレンジとか、青とか、緑とか……でも、しっくり来る感じの色なら、実際どれでも嬉しいよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"正直、新しいものならなんでもいいよ。今日、ぼくは二年ぶりに青色を見たもんだからさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistStuff"}
+{"color":"Pink", "sprite":"camera1Smile","text":"正直、新しいものならなんでもいいよ。今日、ぼくは二年ぶりに青色のものを見たもんだからさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"MaxwellistStuff"}
 ],
 
 "MaxwellistStuff": [
@@ -1501,18 +1501,18 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "MaxwellistStuffUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"アダがぼくのために作ってくれた部屋のこと？ そりゃもちろんだよ！ You mean like the room Ada set up for me? It’s amazing! I mean…… Well…… I can tell she tried","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"I can also tell she doesn’t understand Maxwellism.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I never liked those…… random ass circuit board patterns Jean-Paul was so insistent on. They didn’t…… do anything.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Just aesthetically pleasing circuits that terminate into nothing?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"It’s miles better than nothing…… but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I just want something…… more free. I want to see the sky again.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダがぼくのために作ってくれた部屋とかのこと？ そりゃもちろんだよ！ えっと……つまり、ぼくが言いたいのはね、アダは少なからず努力をしたってことなんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"アダは、マクスウェリズムのことなんかわかっちゃいなかったよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ぼくはそんなのが好きだったわけじゃない。ジン・ポールは基板上の回路の美しさとか、そういうのにご執心だったけど……ほんと、くだらないよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"だって、きれいな回路なんか、なんにもならないじゃん","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"なにもないよりかはずっとマシだけど……でも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"でも、なんでも良いから、なにかほしいの。自由もほしい。空をもう一度見たい","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Ada thought I couldn’t tell…… but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I’m not stupid. I know she thinks I’m in a cult.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I guess…… was…… in a cult…… Jean-Paul and everyone……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Sort of……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Ahhh……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"JeanPaulSkip"},
+{"color":"Pink", "sprite":"camera2Sad","text":"アダはうまく隠してるつもりだっただろうけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ぼくがカルトに居たって、彼女はそう思ってたことくらい知ってるよ。ぼくだってバカじゃないからね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"そう……ぼくは……カルトに居たんだ。ジン・ポールも、他のみんなも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"カルトみたいなところに……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"はぁ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"JeanPaulSkip"},
 ],
 
 
