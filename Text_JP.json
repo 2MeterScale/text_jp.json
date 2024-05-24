@@ -1576,30 +1576,30 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "fineAboutThatGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"See? I knew you were reasonable.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera1Smile","text":"やっぱり、きみはマトモだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 "sadAboutThatGood":[
-{"color":"Pink", "sprite":"camera2Sad","text":"Yeah……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera2Sad","text":"うん……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 "angryAboutThatGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Duh","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera2Angry","text":"ケッ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 
 "LoopingOptions": [
-{"name":"CultDirect", "text":"We need to talk about the Cult you were in"},
-{"name":"CultNonDirect", "text":"So…… about…… Maxwellism. Were you isolated?"},
-{"name":"DungeonsAndDragonsCont", "text":"Do want to play Dungeons & Dragons?"},
-{"name":"InterestsTalk", "text":"What do you want to talk about?"}
+{"name":"CultDirect", "text":"あなたが居たというカルトについて話す必要がある"},
+{"name":"CultNonDirect", "text":"えっと……マクスウェリズムの話なんだけど、世俗からは結構離れてたわけ？"},
+{"name":"DungeonsAndDragonsCont", "text":"D&Dでもやる？"},
+{"name":"InterestsTalk", "text":"話したいこととかある？"}
 ],
 
 
 
 "CultDirect":[
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"I’m NOT in a cult. I know……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I know Ada thought I was.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"But Ada had the decency to respect me. I’m not even prostelytizing to you! What is WRONG with you!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"ぼくはカルトに居たわけじゃない！ けれど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"けれど、アダはぼくがカルトに居たって思ってることくらい、分かってたんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"でも、アダは少なからずぼくのことを尊重してくれた。But Ada had the decency to respect me. I’m not even prostelytizing to you! What is WRONG with you!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"Ugh. It’s like no one cares about the TRUTH.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OscilatorOptions"}
 ],
 
