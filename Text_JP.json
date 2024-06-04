@@ -1599,25 +1599,25 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Angry","text":"ぼくはカルトに居たわけじゃない！ けれど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"けれど、アダはぼくがカルトに居たって思ってることくらい、分かってたんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"でも、アダは少なからずぼくのことを尊重してくれた。But Ada had the decency to respect me. I’m not even prostelytizing to you! What is WRONG with you!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Ugh. It’s like no one cares about the TRUTH.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OscilatorOptions"}
+{"color":"Pink", "sprite":"camera1Angry","text":"でも、アダは少なからずぼくのことを尊重してくれた。あんたに布教してるわけでもないのに、どうしちゃったのさ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"「真実」なんか、どうでもいいみたいだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OscilatorOptions"}
 ],
 
 
 
 "OscilatorOptions": [
-{"name":"Oscilator", "text":"There are lots ways to get that reaction from an oscillator."},
-{"name":"CultSorryGood", "text":"I’m sorry."},
-{"name":"CultProdBad", "text":"That doesn’t change the fact you’re in a cult."}
+{"name":"Oscilator", "text":"発振器から反応を得る方法なら、いくらでもあるだろう"},
+{"name":"CultSorryGood", "text":"すまなかった"},
+{"name":"CultProdBad", "text":"でも、あなたがカルトに居たって事実は変わらないよ"}
 ],
 
 
 
 "Oscilator":[
-{"color":"Pink", "sprite":"camera1Angry","text":"SO?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Jean-Paul was…… he COULDN’T have faked that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"He never knew what I was talking about when I talked about the technicalities!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I know it sounds bad…… but he’s…… he’s technically illiterate.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"だから何よ！？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"ジン・ポールが……あの人が捏造したなんて、ありえないんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"ぼくが専門的なことを話しても、彼は何一つ理解していなかった！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"なんか悪口言ってるみたいだけど……ジン・ポールは……その、字が読めないんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Angry","text":"The closest thing to a computer he understands is CLOCKWORK. He wouldn’t know HOW to fake it! We were the ones to figure out the test.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"And he…… he wouldn't hav","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
@@ -1625,7 +1625,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Angry","text":"I’ve seen things. THIS PLACE was only possible with holy tech!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 "CultSorryGood":[
-{"color":"Pink", "sprite":"camera2Angry","text":"THANK YOU! That was REALLY rude!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"どうも！ 本当に失礼な人ね！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"I’m not a naive IDIOT who doesn’t know when they’re being lied to. I’ve seen things.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"THIS PLACE was only possible with holy tech!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
@@ -2244,7 +2244,7 @@ Thank you to JackalRelated, AnkleSwallower, SynthPanda, LAN, and Rakaran  for cr
 Additional thank you so much JackalRelated for throwing the game in a blender over and over again during playtesting. This would not be nearly as stable if it weren't for you.
 
 
-画像
+Images
 Cynthia SCP-8500 image: Hazel the Delta Rambler, WWOZ New Orleans, 1990 by Infrogmation, CC-BY 2.0, Edited by IronShears
 
 my_cat1.jpg: nullhing’s cat, CC-BY-SA 3.0, Edited by IronShears
