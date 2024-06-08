@@ -1660,10 +1660,10 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "BothIsolated":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Well…… Yeah. I mean, of course Jean-Paul had more responsibilities.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"cameraStaticSad","text":"He was better at communicating with the Maxwellists outside our sect. ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"It was important. He had to bring us together…… but he also needed to make sure none of them were just grifting.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I mean…… he kinda…… at the start he thought EVERYONE outside of him were…… false prophets……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"そりゃ、そうだけど……ジン・ポールのほうが責任は重かったよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"cameraStaticSad","text":"ぼくら以外のマクスウェリストとのコミュニケーションは、彼のほうが得意だった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"重要なことだよ。ジン・ポールはぼくらのことをまとめなきゃいけなかったから。でも、誰も詐欺とかをしないように見守ってなきゃいけなくもあったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"つまり……I mean…… he kinda…… at the start he thought EVERYONE outside of him were…… false prophets……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"But it was okay. They worked it out. WAN told him to trust the other prophets.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Whuhappen"}
 ],
