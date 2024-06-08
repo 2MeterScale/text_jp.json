@@ -1618,45 +1618,45 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Angry","text":"ジン・ポールが……あの人が捏造したなんて、ありえないんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"ぼくが専門的なことを話しても、彼は何一つ理解していなかった！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"なんか悪口言ってるみたいだけど……ジン・ポールは……その、字が読めないんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"The closest thing to a computer he understands is CLOCKWORK. He wouldn’t know HOW to fake it! We were the ones to figure out the test.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"And he…… he wouldn't hav","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"ジン・ポールはコンピューターのことなんか分かりやしないよ。せいぜいゼンマイ仕掛けがいいところ。捏造する方法なんか、わかるはずないんだよ！ 実験の方法を明らかにしたのは、ぼくらのほうなんだから。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"それと、彼のおかげ……","tickSpeed":0.05,"closeSpeed":0.05,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"No. Not him.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"I’ve seen things. THIS PLACE was only possible with holy tech!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera2Angry","text":"いや、ジン・ポールのおかげなんかじゃない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"ぼくは詳しいの。この場所は聖なるテクノロジーの産物なんだよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 "CultSorryGood":[
 {"color":"Pink", "sprite":"camera2Angry","text":"どうも！ 本当に失礼な人ね！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I’m not a naive IDIOT who doesn’t know when they’re being lied to. I’ve seen things.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"THIS PLACE was only possible with holy tech!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera2Angry","text":"騙されてたかどうかなんてすぐに分かるよ。そんなことも分からないほどぼくはバカじゃない。ぼくは詳しいの。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"この場所は聖なるテクノロジーの産物なんだよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 "CultProdBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"You know what?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"Consider this the end of your duties today.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"そんなこと言っちゃうんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"それじゃ、あんたの今日の仕事はこれでおしまいってことで","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"{deletedFiles}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"Go stand by the fucking water cooler.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Go hide in the bathroom.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"Have a nice fucking day.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Fuck OFF. I'm done talking to you.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"冷水機の隣で無意味に突っ立ってたらどう？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"それか、トイレに隠れるとか？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"それじゃ、クソみたいに良い日を","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"どっか行きなよ。もうあんたと話したくない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticLookAway","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 
-"deletedFilesTrue":"Go delete whatever the fuck you were deleting and refusing to tell me about.",
-"deletedFilesFalse":"Go have fun in the breakroom or whatever it is you’re doing.",
+"deletedFilesTrue":"そうか。消したいファイルは全部消してしまえ。そして、そのまま地べたにうずくまるがいい",
+"deletedFilesFalse":"そうか。その小部屋でずっと過ごしているがいいさ。やることはないだろうがね",
 
 
 "CultNonDirect":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"I mean…… I wouldn't say THAT……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"えっとぉ……そうとは言わないけどさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Like I said, a lot of my friends came into it with me. I only cut contact with people who who didn't respect my decision……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"And people who…… we couldn’t tell…… people who might’ve gotten us in trouble.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Like……I dunno. Just…… Dangerous people.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"I guess my aunt…… my brothers…… but it’s not like Jean-Paul didn’t have to do this too!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"NONE of his family supported him! They all thought he was a heretic!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"IsolatedOptions"}
+{"color":"Pink", "sprite":"camera1Smile","text":"さっきも言ったと思うけど、ぼくの友達もたくさん一緒にマクスウェリズムに入信したんだよ。関係を切ったのはぼくの決断を尊重してくれなかった人たちだけ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"それと、その……トラブルを呼び込みがちな人たちにも話せなかった……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"その……わかんないけど、危険な人たちとか……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"ぼくの叔母とか、兄弟とか……。でも、ジン・ポールまで同じことをする必要はなかった！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"ジン・ポールの家族は彼を支えてなんかいなかった！ みんな、彼のことを異端だって……！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"IsolatedOptions"}
 ],
 
 "IsolatedOptions": [
-{"name":"BothIsolated", "text":"So you were both isolated?"},
-{"name":"CultProdBad", "text":"That’s a cult."}
+{"name":"BothIsolated", "text":"えっと、二人とも世俗からは離れてたってことかな？"},
+{"name":"CultProdBad", "text":"やっぱりカルトじゃないか"}
 ],
 
 "BothIsolated":[
