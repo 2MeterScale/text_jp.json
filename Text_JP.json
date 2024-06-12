@@ -1663,40 +1663,40 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"そりゃ、そうだけど……ジン・ポールのほうが責任は重かったよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"ぼくら以外のマクスウェリストとのコミュニケーションは、彼のほうが得意だった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"重要なことだよ。ジン・ポールはぼくらのことをまとめなきゃいけなかったから。でも、誰も詐欺とかをしないように見守ってなきゃいけなくもあったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"つまり……I mean…… he kinda…… at the start he thought EVERYONE outside of him were…… false prophets……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"つまり……ジン・ポールは、彼以外の人をみなニセの預言者だと思っていたみたいなの。最初の頃の話だよ、これは","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"But it was okay. They worked it out. WAN told him to trust the other prophets.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Whuhappen"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"でもまあ、それはそれでよかったの。結局WANが他の預言者を信じるように伝えて、問題は解決した","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Whuhappen"}
 ],
 
 "Whuhappen": [
-{"name":"WhuHappenUgly", "text":"What happened?"}
+{"name":"WhuHappenUgly", "text":"なにが起こったの？"}
 ],
 
 
 
 "BothIsolated":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Not everyone really agreed on everything at first……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"cameraStaticSad","text":"WAN’s name…… the ways we differed from the old church……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"whether we were different at ALL……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"but…… we figured it out.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Jean-Paul was…… skeptical. I mean rightfully so! Skepticism is important!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Especially when the story they’re telling isn’t EXACTLY what WAN was telling him! It was confusing!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Eventually…… We figured out why everyone was hearing slightly different things.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"WAN was fragmented. WAN’s pieces weren’t fully communicating with each other. It was impossible for her to keep a straight story!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"That’s one thing the old church was right about.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"WAN was broken and she needed to be repaired.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"BrokenGod"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"最初から全員が全部に賛成してたわけじゃなかったけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"cameraStaticSad","text":"WANの名前とか、旧いマクスウェリズムとぼくらの違うところとか……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"もしかすると何から何まで違ってたのかもしれないけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"でも、なんとか納得はした","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"ジン・ポールは……疑り深い人なの。そりゃそうだよねって感じだよ。いろんなことに疑ってかかるってのは、悪いことじゃないじゃん？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"他の預言者がジン・ポールに言ってたストーリーが、WANが言ってるのと完全に一致してなかったときなんか、すごく混乱したんだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"結局、なんでみんながみんなちょっとずつ違うことを聞いてた理由もわかったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"WANは断片化されてたの。それで、それらの断片は、互いにコミュニケーションを取れていたというわけではなかった。そりゃ、一貫したお話なんか作れるわけないよね！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"それこそが、旧教会の見地の正しいところなの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"つまるところ、WANは壊れていて、どうにかして直さなければならなかった……ということ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"BrokenGod"}
 ],
 
 "BrokenGod": [
-{"name":"BrokenGodUgly", "text":"Stuff that make sense…… is because she’s broken?"}
+{"name":"BrokenGodUgly", "text":"筋は通っているな……どれもこれも、WANが壊れていたからなんだな？"}
 ],
 
 
 
 "BrokenGodUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Exactly!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"cameraStaticSad","text":"It explains Jean-Paul’s changing story. It explains why the different prophets heard different things……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"We need to defragment WAN to hear the whole truth.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"そうよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"cameraStaticSad","text":"ジン・ポールが急に話を変えたのもこれで説明がつく。預言者ごとに違うことを聞いてたってのも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくらはWANをデフラグしなきゃいけなかった……真実を聞くために","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"But there were bits and pieces that were consistent enough to know they were true.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"One of the first things we were hearing heard from other prophets for YEARS was the idea to build a virtual paradise.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"There was an old ticker who started picturing an alternate realm. That was the first one we heard about.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
