@@ -44,7 +44,7 @@ SCP-8500を収容しているコンピュータは、サイト-15のサーバフ
 
 [color=#5b6ee1][b]説明:[/b][/color] SCP-8500は、1989年より1995年の間に開発された、異常な仮想現実シミュレーションです。本シミュレーションはGoI-004C-8000によって拡散されました。本GoIはGoI-004(\"壊れた神の教会\")の近代化した分派として誕生した後、発展していく中、新興GoIであるGoI-004C(\"マクスウェリズム教会\")と同化しました。SCP-8500の制作は、全脳のアップロードに関する、前マクスウェリズム-初期マクスウェリズム的トランスヒューマニズム信仰と符合しています。
 
-SCP-8500は、1000個程度までの電子化された意識を維持し、更に10,000程度の未電子化個体からの本システムに対する個人用仮想現実機器を用いた外部からのアクセスをサポートすることができる、複雑かつ強力なシミュレーションを当初目的として設計されました。初期においては、本シミュレーションの能力を複数年に渡って漸次向上させ、\"電子の楽園\"を作成することが計画されていました。技術的及び経済的な困難により、時間が経過するに従って、本計画の縮小が行われました。初めての全脳アップロードが行われたあと、最終的に、本シミュレーションの作成者らは、当初計画の達成が技術的に不可能であると推定しました。
+SCP-8500は、1000個程度までの電子化された意識を維持し、更に10,000程度の未電子化個体からの本システムに対する個人用仮想現実機器を用いた外部からのアクセスをサポートすることができる、複雑かつ強力なシミュレーションを当初目的として設計されました。初期においては、本シミュレーションの能力を複数年に渡って漸次向上させ、\"電子の楽園\"を作成することが計画されていました。技術的及び経済的な困難により、時間が経過するに従って、本計画は縮小されました。初めての全脳アップロードが行われたあと、最終的に、本シミュレーションの作成者らは、当初計画の達成が技術的に不可能であると推定しました。
 
 本インシデントは、SCP-8500-1の誕生にに直結しました。SCP-8500-1は、SCP-8500における唯一の住人です。SCP-8500-1は1995年においてのPoI-8000-1(\"シンシア・レン\")の脳の完全なコピーです。PoI-8000-1にはGoI-004C-8000の追従者であった経歴があります。本インシデントにおいては非異常性のデータ移行が実施されたため、SCP-8500は意識の完全な転送を行えず、与えられた情報を複写するのみでした。SCP-8500内において、SCP-8500-1は、SCP-8500内にて、1995年における発生から2年の間、活動をしています。
 
@@ -52,7 +52,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 "SCPTextImage":"およそ1997年におけるシンシア・レン。SCP-8500-1の創造より2年後。",
 "PARADISE": "楽園.exe",
 "SHELL": "SHELL",
-"WISH": "BLOW-A-WISH.exe",
+"WISH": "KIRI-BI.exe",
 "FILEシステム": "ファイルシステム",
 "Select": "色+オブジェクトを選択",
 "MouseOn":"マウスカーソル: 表示",
@@ -217,7 +217,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 	ですが、私は貴方がこれらをするべきでないと思っています。代わりに、貴方におねがいしたいことがあります。貴方の業務時間の残りを、彼女の住環境を良くするのに使ってほしいのです。
 	
-	貴方がパソコンに詳しいなら──SCP-8500にアサインされたお方ならば詳しいかと思いますが──貴方はBLOW-A-WISHを使って彼女の住環境にいろいろなものを加えることができます。オプションを選んで、「生成」をクリックしてください。私はただの他人です。このお願いが厚かましいということも理解しています。しかし、私は貴方がお力を貸してくださるほど善きお人であると信じねばならないのです。お願いします。",
+	貴方がパソコンに詳しいなら──SCP-8500にアサインされたお方ならば詳しいかと思いますが──貴方はKIRI-BIを使って彼女の住環境にいろいろなものを加えることができます。オプションを選んで、「生成」をクリックしてください。私はただの他人です。このお願いが厚かましいということも理解しています。しかし、私は貴方がお力を貸してくださるほど善きお人であると信じねばならないのです。お願いします。",
 
 "THANKYOUrtf":"ありがとう.rtf",
 "THANKYOUrtfMini":"ありがとう
@@ -360,7 +360,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 "ReactionToGenerationforgotten": [{"color":"Pink", "sprite":"camera2Smile","text":"あのひとからのサプライズだね！ アダ、元気だといいけど……ねえ、アダは他に何か言ってた？","tickSpeed":0.04,"closeSpeed":1,"optionsVisible":true,"options":"GenerationFinish","split":"ReactionToGenerationforgotten"}
 ],
 "GenerationFinish":[
-{"name":"GenerationFinishforgotten", "text":"モデリングのための新しいプログラムがある。名前は……Blow-A-Wish"}
+{"name":"GenerationFinishforgotten", "text":"モデリングのための新しいプログラムがある。名前は……KIRI-BI"}
 ],
 "GenerationFinishforgotten": [
 {"color":"Pink", "sprite":"camera1Smile","text":"アダはここ最近こんなのをずっと作ってたんだ……","tickSpeed":0.04,"closeSpeed":1,"optionsVisible":true,"options":"whatWereYouSaying"}
@@ -1443,7 +1443,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "CultLeaderJeanPaul": [
 {"name":"ChangeSubject", "text":"そうだな。すまない"},
-{"name":"CultLeaderJeanPaulUgly", "text":"君たちのことなんかどうでもいいって、もしWANが思ってたら？"}
+{"name":"CultLeaderJeanPaulUgly", "text":"あなたたちのことなんかどうでもいいって、もしWANが思ってたら？"}
 ],
 
 
@@ -1697,50 +1697,50 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"そうよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticSad","text":"ジン・ポールが急に話を変えたのもこれで説明がつく。預言者ごとに違うことを聞いてたってのも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"ぼくらはWANをデフラグしなきゃいけなかった……真実を聞くために","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"But there were bits and pieces that were consistent enough to know they were true.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"One of the first things we were hearing heard from other prophets for YEARS was the idea to build a virtual paradise.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"There was an old ticker who started picturing an alternate realm. That was the first one we heard about.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"There was a random guy in with no connection to the old church at ALL hearing it!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"There was this teenager in an IRC, X3N14, hearing it too right before we were getting ready to upload me……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"That’s one thing the old church was right about.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"It was all there. ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AbandonYou"}
+{"color":"Pink", "sprite":"camera1Sad","text":"でも、筋の通った話をしてくれるくらいにはまとまった断片もあってね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"「電子の楽園」を作ることに何年もご執心な預言者もいたんだ。ぼくらはずっとその話を聞かされてたってこと、よく覚えてる","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"並行世界を描像した、古い受信機があった。ぼくらがその「電子の楽園」について初めて聞いたのがその時だ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"旧教会となんの関係もないその辺のおっさんも聞いてた！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"ぼくをアップロードする直前、X3N14っていうIRCのティーンエイジャーも聞いてたの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"それこそが、旧教会の正しかったところなんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"ぜんぶ、そこに在ったの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"AbandonYou"}
 ],
 
 
 
 "AbandonYou": [
-{"name":"LoopBack", "text":"Huh. Okay."},
-{"name":"BrokenGodUgly", "text":"Then why did they abandon you?"}
+{"name":"LoopBack", "text":"へえ"},
+{"name":"BrokenGodUgly", "text":"じゃあ、なんで彼らはあなたを捨てたの？"}
 ],
 
 
 "BrokenGodUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"What?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"They didn’t! What are you talking about?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"They were all worried about me once they realized what had happened, tried to take care and make my life easier.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"It wasn’t their fault our technology wasn't good enough!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"And they…… They only left me……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"……When Jean-Paul realized there was no hope……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ImplantOptions"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"なんですって？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"何いってんの！？ 捨てちゃなんかいないわ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"何が起こったかわかったとき、みんなぼくのことを心配してくれた。どうにかして、ここの環境を少しでも良くしようと頑張ってくれた","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"彼らが悪いんじゃない。技術が足りなかっただけなの！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"それで結局……ぼくは一人になっちゃったんだけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"……ジン・ポールが「見込みなし」と判断しちゃってさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ImplantOptions"}
 ],
 
 "ImplantOptions": [
-{"name":"LoopBack", "text":"Okay."},
-{"name":"Implant", "text":"Did you know Jean-Paul had an implant?"}
+{"name":"LoopBack", "text":"なるほどね"},
+{"name":"Implant", "text":"ジン・ポールはサイバーインプラントをしてたって知ってた？"}
 ],
 
 "Implant":[
-{"color":"Pink", "sprite":"camera1Angry","text":"……Well…… yeah. We all got cybernetics at some point or another.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"What’s your point?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OscilatorReveal"}
+{"color":"Pink", "sprite":"camera1Angry","text":"……そりゃ、知ってるよ。ぼくらは全員どっかのタイミングでサイバネ化してたんだから","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"何が言いたいの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OscilatorReveal"}
 ],
 
 
 "OscilatorReveal": [
-{"name":"LoopBack", "text":"Eh. Nothing"},
-{"name":"OscilatorNon", "text":"Do you think it affected the oscillator?"}
+{"name":"LoopBack", "text":"いや、なんでもない"},
+{"name":"OscilatorNon", "text":"そのサイバネは発振器に影響を与えたと思う？"}
 ],
 
 "LoopBack":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Let’s…… move on……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"先に……進もうよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 
