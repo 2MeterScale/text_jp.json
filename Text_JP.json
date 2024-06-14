@@ -1745,14 +1745,14 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "OscilatorNon":[
-{"color":"Pink", "sprite":"camera2Angry","text":"What? No. No way. That’s……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"なんですって？ そんな……そんなワケないでしょ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Not trying to discredit him…… but…… Jean-Paul is technically illiterate.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"There’s no way he would have known how to fake it that well. WAN WAS talking to him.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"What about all the others?! Everyone was telling similar stories! Sure, Jean-Paul’s was……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"The most…… different…… and……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"No. No he wouldn’t have done that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"He COULDN’T…… WOULDN’T…… have done that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ジン・ポールの悪口を言うわけじゃないけど、彼は……その、字が読めないんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"だから、捏造なんかできるわけがない。本当にWANが彼に託宣をしてたのよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"じゃあさ、他の人はどうなるの！？ みんな同じような話をしてたんだよ！ そりゃ、ジン・ポールは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"けっこう……変な感じだったけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"いいや、そんなわけないね。そんなことをするわけがない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"だって、できるわけが……そんなわけが……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Angry","text":"You’re just trying to confuse me! Stop it!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"I want to…… talk about something……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
