@@ -1885,7 +1885,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "ComputersInterestsTalk":[
-{"color":"Pink", "sprite":"camera1Smile","text":"You said before you knew about computers right?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"さっきさ、パソコン詳しいって言ってたよね？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"Well, tell me more about it. I want to know your experience on the field. I would love to help you improve further.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"HelpYou"}
 ],
 "HelpYou": [
