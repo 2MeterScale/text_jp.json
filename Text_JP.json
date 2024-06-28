@@ -1829,55 +1829,55 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "TooFar": [
-{"name":"TooFarBad", "text":"You might be thinking too far ahead"},
-{"name":"TooFarGood", "text":"That would be nice."}
+{"name":"TooFarBad", "text":"先のことを考えすぎじゃないか？"},
+{"name":"TooFarGood", "text":"それはいいね"}
 ],
 
 
 
 "TooFarBad":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"What? No I'm not!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"I already have a campaign planned!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"youreFast"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"先のこと……？ そんなことないよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"キャンペーンシナリオの計画はもう立ててるんだから！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"youreFast"}
 ],
 
 "TooFarGood":[
-{"color":"Pink", "sprite":"camera2Smile","text":"I already have a campaign planned!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"youreFast"}
+{"color":"Pink", "sprite":"camera2Smile","text":"キャンペーンシナリオの計画はもう立ててるんだから！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"youreFast"}
 ],
 
 
 
 "youreFast": [
-{"name":"Fast", "text":"That was…… fast"}
+{"name":"Fast", "text":"そりゃずいぶんと……性急じゃないか？"}
 ],
 
 "TooFarBad":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Maxwellist technology does wonders!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"奇跡は起こるよ！ マクスウェリストの技術だもの！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Also I needed something to think about here……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"それに、なんか考えてないとおかしくなっちゃうから……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"options":"LoopingOptions"}
 ],
 
 
 "CookInterestsTalk":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Have you cooked anything interesting today?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Breakfast"}
+{"color":"Pink", "sprite":"camera1Smile","text":"今日、なに食べた？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Breakfast"}
 ],
 "Breakfast": [
-{"name":"BreakfastUgly", "text":"Too busy for anything but breakfast"}
+{"name":"BreakfastUgly", "text":"忙しすぎて、朝食しか食べられていない"}
 ],
 "BreakfastUgly":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Oh well……  That sucks…… What did it taste like?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Invested"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"そうなんだ……大変だね……。美味しかった？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Invested"}
 ],
 "Invested": [
-{"name":"InvestedBad", "text":"You seem too invested on this"},
-{"name":"SweetGood", "text":"There was a sweet aftertaste."}
+{"name":"InvestedBad", "text":"私がなにを食べたのか、ずいぶんと気にするんだね？"},
+{"name":"SweetGood", "text":"後味は甘かったな"}
 ],
 "InvestedBad":[
-{"color":"Pink", "sprite":"camera1Sad","text":"I miss food……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera1Sad","text":"そりゃ、食べ物が恋しいもの……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 "SweetGood":[
-{"color":"Pink", "sprite":"camera1Smile","text":"I can already imagine it……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"},
-{"color":"Pink", "sprite":"camera2Smile","text":"The good thing about this body is that good memories never go away.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"I can perfectly recall the ice-cream Cynthia ate before the upload……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"Of course, the bad ones don’t disappear either.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera1Smile","text":"うん、想像できるよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"},
+{"color":"Pink", "sprite":"camera2Smile","text":"いい思い出が消え去らないってのは、この体の良いところだよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"シンシアがアップロード前に食べたアイスクリームも、カンペキに思い出せるよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"もちろん、嫌な記憶を忘れることもできないけど","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 
