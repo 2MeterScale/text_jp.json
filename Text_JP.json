@@ -1808,7 +1808,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"ぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"えっと、その……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"アダと遊ぶのは好きだったよ。うん。だから、そうだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"I’d really like play with her too…… It could be a bigger session!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"アダとTRPGをするのも、もちろん好き……。もっと大きな舞台でのセッションもしたかったわ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"I have so many ideas for campaigns and characters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"I can DM! Ada thinks I’m really good at it. I come with rng pre-installed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
 ],
@@ -1816,7 +1816,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"ぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"えっと、その……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"アダと遊ぶのは好きだったよ。うん。だから、そうだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"I’d really like play with her too…… It could be a bigger session!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"アダとTRPGをするのも、もちろん好き……。もっと大きな舞台でのセッションもしたかったわ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"I have so many ideas for campaigns and characters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"I can DM! Ada thinks I’m really good at it. I come with rng pre-installed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
 ],
