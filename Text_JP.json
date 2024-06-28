@@ -1809,21 +1809,21 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Nervous","text":"えっと、その……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"アダと遊ぶのは好きだったよ。うん。だから、そうだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"アダとTRPGをするのも、もちろん好き……。もっと大きな舞台でのセッションもしたかったわ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I have so many ideas for campaigns and characters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"I can DM! Ada thinks I’m really good at it. I come with rng pre-installed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
+{"color":"Pink", "sprite":"camera2Smile","text":"キャンペーンシナリオも、キャラクターも、アイデアはいっぱいあってね、","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ダンジョン・マスターもできるよ！ 自信はあるんだ。乱数生成器だってプレインストールされてるし！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
 ],
 "sadDungeonsAndDragonsCont":[
 {"color":"Pink", "sprite":"camera1Nervous","text":"ぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"えっと、その……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"アダと遊ぶのは好きだったよ。うん。だから、そうだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"アダとTRPGをするのも、もちろん好き……。もっと大きな舞台でのセッションもしたかったわ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I have so many ideas for campaigns and characters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"I can DM! Ada thinks I’m really good at it. I come with rng pre-installed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
+{"color":"Pink", "sprite":"camera2Smile","text":"キャンペーンシナリオも、キャラクターも、アイデアはいっぱいあってね、","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ダンジョン・マスターもできるよ！ 自信はあるんだ。乱数生成器だってプレインストールされてるし！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
 ],
 
 "DungeonsAndDragonsCont":[
-{"color":"Pink", "sprite":"camera1Angry","text":"I……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"…… Are you making fun of me? Let's talk about something else","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera1Angry","text":"ぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"……ふざけないでくれる？ 別の話題とかないの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 
