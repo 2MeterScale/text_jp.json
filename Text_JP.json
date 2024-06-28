@@ -187,7 +187,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 	あの夜からずっと、私は一人きりです。WANも何も、二度と聞きたくありませんでした。私にとってそれは、都合よく姿を変えるたわごとに過ぎなかったのです。あの子のことは心配でした。ですが、成れ果ててしまったあの子を見る恐怖に耐えられるかも、あの子をカルトから助け出せてやれるかどうかもわからなかったのです。ジン・ポールは欲していたものを手に入れました。シンシア……彼女はいま、外界から隔たれて独りなのです。
 
-	最後にシンシアについて耳にしたとき、あの子はまだベイ・エリアにいたようでした。あの子の記憶は消されて、幸せで、新しい子犬と良いパートナーと巡り合って、人生を楽しんでいるようでした。WAN、ジン・ポールが言うところの神……あの子がそれを何の名前で呼んでいたにせよ、後に財団が確保してSCP-8500と呼ばれるそれの記憶は、さっぱり消されていたのです。
+	最後にシンシアについて耳にしたとき、あの子はまだベイ・エリアにいたようでした。あの子の記憶は消されて、幸せで、新しい子犬と良いパートナーと巡り合って、人生を楽しんでいるようでした。WAN、ジン・ポールが言うところの神……あの子がそれを何の名前で呼んでいたにせよ、後に財団が確保してSCP-8500と呼ばれる「それ」の記憶は、さっぱり消されていたのです。
 
 	ですが、シンシアはシンシアなのです。私がまさにシンシアの文書を読んでいたとき、あの子は私から歩いてすぐそこ──二回IDカードをスキャンすれば行ける部屋の異常なサーバファームに居たのです。独り、外界から隔てられて。
 
@@ -1771,12 +1771,12 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"ぼくはアダを愛してる。本当だよ。だから、このことを率直に聞いてくれなかったのはすこし寂しい……。そうしていたら、ぼくはアダと直接話せたのに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"ジン・ポールの悪口を言うわけじゃないけど、彼は……その、本当に無学なんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I feel like……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I feel like every time something makes me question……  I’m admitting the reason I’m like this was over……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Narcissism. I feel so guilty for even thinking it…… but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Jean-Paul was really adamant about doing this FIRST. He started having visions about it AFTER the other prophets already had.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Did none of it matter? Is my life gone…… over an ego trip?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"No. These thoughts aren’t LOGICAL. Jean-Paul didn’t destroy me just so he could be the first.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"これってさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"これってさ、毎回疑問に思ってたんだけどさ……ぼくがこんなになっちゃった理由ってさ、もしかすると……ジン・ポールがさ、","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"自分に酔いすぎちゃったんじゃないかって。こんなこと考えちゃいけないってわかってるよ。でも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"これをやるって決めたとき、彼はほんとに頑固だったんだ。ジン・ポールはビジョンを見たんだ。けれど、それは他の預言者がすでに見たものだった。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ねえ、これって関係あるのかな。ぼくの人生が台無しになっちゃったのって、ちっぽけなエゴのせい？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あーもう、ちっとも論理的じゃないわ。Jean-Paul didn’t destroy me just so he could be the first.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"I can’t…… lose that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"I just…… I need some time to think…… You can…… do something else for now. Please don’t talk to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticSad","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
@@ -1785,12 +1785,12 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"ぼくはアダを愛してる。本当だよ。だから、このことを率直に聞いてくれなかったのはすこし寂しい……。そうしていたら、ぼくはアダと直接話せたのに","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"ジン・ポールの悪口を言うわけじゃないけど、彼は……その、本当に無学なんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I feel like……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I feel like every time something makes me question……  I’m admitting the reason I’m like this was over……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Narcissism. I feel so guilty for even thinking it…… but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"Jean-Paul was really adamant about doing this FIRST. He started having visions about it AFTER the other prophets already had.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Did none of it matter? Is my life gone…… over an ego trip?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"No. These thoughts aren’t LOGICAL. Jean-Paul didn’t destroy me just so he could be the first.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"これってさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"これってさ、毎回疑問に思ってたんだけどさ……ぼくがこんなになっちゃった理由ってさ、もしかすると……ジン・ポールがさ、","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"自分に酔いすぎちゃったんじゃないかって。こんなこと考えちゃいけないってわかってるよ。でも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"これをやるって決めたとき、彼はほんとに頑固だったんだ。ジン・ポールはビジョンを見たんだ。けれど、それは他の預言者がすでに見たものだった。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ねえ、これって関係あるのかな。ぼくの人生が台無しになっちゃったのって、ちっぽけなエゴのせい？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あーもう、ちっとも論理的じゃないわ。Jean-Paul didn’t destroy me just so he could be the first.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"I can’t…… lose that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"I just…… I need some time to think…… You can…… do something else for now. Please don’t talk to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticSad","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
