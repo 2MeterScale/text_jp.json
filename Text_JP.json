@@ -1774,11 +1774,11 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"これってさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"これってさ、毎回疑問に思ってたんだけどさ……ぼくがこんなになっちゃった理由ってさ、もしかすると……ジン・ポールがさ、","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"自分に酔いすぎちゃったんじゃないかって。こんなこと考えちゃいけないってわかってるよ。でも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"これをやるって決めたとき、彼はほんとに頑固だったんだ。ジン・ポールはビジョンを見たんだ。けれど、それは他の預言者がすでに見たものだった。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"これをやるって決めたとき、彼はほんとに頑固だったんだ。ジン・ポールはビジョンを見たんだ。けれど、それは他の預言者がすでに見たものだった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"ねえ、これって関係あるのかな。ぼくの人生が台無しになっちゃったのって、ちっぽけなエゴのせい？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"あーもう、ちっとも論理的じゃないわ。Jean-Paul didn’t destroy me just so he could be the first.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I can’t…… lose that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I just…… I need some time to think…… You can…… do something else for now. Please don’t talk to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あーもう、ちっとも論理的じゃないわ。ぼくのことなんか、簡単に壊せたはずなのに、ジン・ポールはそうしなかった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"だから、大事にしなきゃ……だよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"ちょっと、考える時間がほしいな。なんか……他のことやってなよ。すこし、一人にしてほしい","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticSad","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 "sadAdaToldYes":[
@@ -1788,34 +1788,34 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera1Nervous","text":"これってさ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"これってさ、毎回疑問に思ってたんだけどさ……ぼくがこんなになっちゃった理由ってさ、もしかすると……ジン・ポールがさ、","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Nervous","text":"自分に酔いすぎちゃったんじゃないかって。こんなこと考えちゃいけないってわかってるよ。でも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"これをやるって決めたとき、彼はほんとに頑固だったんだ。ジン・ポールはビジョンを見たんだ。けれど、それは他の預言者がすでに見たものだった。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"これをやるって決めたとき、彼はほんとに頑固だったんだ。ジン・ポールはビジョンを見たんだ。けれど、それは他の預言者がすでに見たものだった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Sad","text":"ねえ、これって関係あるのかな。ぼくの人生が台無しになっちゃったのって、ちっぽけなエゴのせい？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"あーもう、ちっとも論理的じゃないわ。Jean-Paul didn’t destroy me just so he could be the first.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I can’t…… lose that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"I just…… I need some time to think…… You can…… do something else for now. Please don’t talk to me right now.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あーもう、ちっとも論理的じゃないわ。ぼくのことなんか、簡単に壊せたはずなのに、ジン・ポールはそうしなかった","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"だから、大事にしなきゃ……だよね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"ちょっと、考える時間がほしいな。なんか……他のことやってなよ。すこし、一人にしてほしい","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticSad","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 "angryAdaToldYes":[
 {"color":"Pink", "sprite":"cameraStaticAngry","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"You've been…… SO rude to me today……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I just…… don't believe you. Never talk to me AGAIN.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"あなた、本当に無礼な人ね……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"そんなこと……ぼくは信じない。もう話しかけてこないで","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticLookAway","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 
 
 
 "fineDungeonsAndDragonsCont":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"I……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Well…… I mean……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I really liked playing with Ada…… So…… Yeah.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"えっと、その……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダと遊ぶのは好きだったよ。うん。だから、そうだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"I’d really like play with her too…… It could be a bigger session!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"I have so many ideas for campaigns and characters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"I can DM! Ada thinks I’m really good at it. I come with rng pre-installed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
 ],
 "sadDungeonsAndDragonsCont":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"I……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Well…… I mean……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"I really liked playing with Ada…… So…… Yeah.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"ぼくは……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"えっと、その……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"アダと遊ぶのは好きだったよ。うん。だから、そうだね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"I’d really like play with her too…… It could be a bigger session!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"I have so many ideas for campaigns and characters.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":"I can DM! Ada thinks I’m really good at it. I come with rng pre-installed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TooFar"}
@@ -1986,7 +1986,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "ICanExplain": [
-{"name":"ICanExplainUgly", "text":"I can explain."}
+{"name":"ICanExplainUgly", "text":"説明させてくれ"}
 ],
 
 
@@ -2090,8 +2090,8 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "GoodEnd":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Wait, it's 5PM……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Sad","text":"That means your shift is over…… doesn't it?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions1"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"あっ……5時だ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Sad","text":"シフト、これで終わりなんでしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions1"}
 ],
 
 "GoodEndingOptions1": [
