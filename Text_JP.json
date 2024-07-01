@@ -1886,80 +1886,80 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "ComputersInterestsTalk":[
 {"color":"Pink", "sprite":"camera1Smile","text":"さっきさ、パソコン詳しいって言ってたよね？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"cameraStaticNervous","text":"Well, tell me more about it. I want to know your experience on the field. I would love to help you improve further.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"HelpYou"}
+{"color":"Pink", "sprite":"cameraStaticNervous","text":"その話、もっとしてちょうだいよ。きみの職歴とかも知りたいし。技術向上の手助けとか、喜んでやらせてもらうよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"HelpYou"}
 ],
 "HelpYou": [
-{"name":"HelpMe", "text":"Why are you so sure you can help?"}
+{"name":"HelpMe", "text":"なぜそう助けになれると確信できるんだ？"}
 ],
 
 "HelpMe":[
-{"color":"Pink", "sprite":"camera1Smile","text":"I have a PhD in this stuff!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"cameraStaticNervous","text":"How many other sapient computer programs can you talk to?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Surprised"}
+{"color":"Pink", "sprite":"camera1Smile","text":"だって、ぼくは博士号持ってるんだよ！ コンピューターサイエンスの！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"cameraStaticNervous","text":"他に知性を持って会話もできちゃうコンピュータープログラムなんて、居ないでしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"Surprised"}
 ],
 "Surprised": [
-{"name":"SurprisedUgly", "text":"You'd be surprised"}
+{"name":"SurprisedUgly", "text":"果たしてそれは本当かな？"}
 ],
 "SurprisedUgly":[
-{"color":"Pink", "sprite":"camera1Smile","text":"I…… Wait…… really?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ちょっ……待っ……マジで言ってる？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"cameraStaticNervous","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"cameraStaticNervous","text":"I've missed a lot more than I thought……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"cameraStaticNervous","text":"この世って、思ったより進歩してんだね……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 
 
 "RelaxInterestsTalk":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"So……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"When you told me you didnt do anything in your free time……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Nervous","text":"That was an exaggeration…… right? I mean, I have never met anyone who doesn’t do SOMETHING in their free time.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Do you read books? Listen to music? Look, even if its boring or embarrassing I promise I won't laugh. I physically can't!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"RealInterests"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"さっきさ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"自由時間にすることなんかないって言ったよね……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Nervous","text":"それって誇張表現でしょ？ だって、ぼくは自由時間に何もしない人なんかに会ったことないもの。少なからず「なにか」はしてるでしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"本を読んだりとか、音楽を聞いたりとか？ 変な本とか音楽とかでも、笑ったりしないから！ だって物理的に笑えないもん！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"RealInterests"}
 ],
 "RealInterests": [
-{"name":"RealInterestsUgly", "text":"It was not an exaggeration."},
-{"name":"BirdWatching", "text":"Birdwatching."},
-{"name":"Curling", "text":"Curling."}
+{"name":"RealInterestsUgly", "text":"誇張じゃない"},
+{"name":"BirdWatching", "text":"バードウォッチングかな"},
+{"name":"Curling", "text":"カーリングかな"}
 ],
 
 "RealInterestsUgly":[
-{"color":"Pink", "sprite":"cameraStaticSmile","text":"How do you even do that? I cannot fathom living like that…… Are you actually human?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Nevermind, that was a stupid question.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"cameraStaticSmile","text":"「何もしない」なんて、そもそもそんなことができるの？ そんな生き方、ぼくにはわけがわからないな……あなた、本当に人間？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"今のは忘れて。変な質問しちゃったね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 "BirdWatching":[
 {"color":"Pink", "sprite":"cameraStaticSmile","text":"……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Tell. Me. Everything. Please. Have you seen any cool birds recently?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"BirdsWatched"}
+{"color":"Pink", "sprite":"camera2Smile","text":"教えてよ。ぼくに、全部！ なんか、カッコいい鳥とかいた？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"BirdsWatched"}
 ],
 
 "BirdsWatched": [
-{"name":"BirdsCont", "text":"There was a pair of wrens outside"},
-{"name":"BirdsCont", "text":"I saw a giant flock of crows"},
-{"name":"BirdsCont", "text":"There's a bunch of sparrows near my house"}
+{"name":"BirdsCont", "text":"ミソサザイのつがいがいた"},
+{"name":"BirdsCont", "text":"すごく大きいカラスの群れを見た"},
+{"name":"BirdsCont", "text":"わたしの家の近くに、スズメがたくさんいる"}
 ],
 
 "BirdsCont":[
-{"color":"Pink", "sprite":"camera1Smile","text":"Yes. I see. What else? Tell me More.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"BirdsWatched2"}
+{"color":"Pink", "sprite":"camera1Smile","text":"そうなの。わかったよ。他には？ もっと教えてよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"BirdsWatched2"}
 ],
 
 "BirdsWatched2": [
-{"name":"BirdsCont2", "text":"My Uncle’s farm has chickens?"},
-{"name":"BirdsCont2", "text":"There are…… rheas? In the local zoo?"},
-{"name":"BirdsCont2", "text":"There's some penguins here somewhere."}
+{"name":"BirdsCont2", "text":"叔父の農場にはニワトリが……いるとか？"},
+{"name":"BirdsCont2", "text":"近くの動物園には……ダチョウがいるとか？"},
+{"name":"BirdsCont2", "text":"ペンギンも多分どこかにいる"}
 ],
 
 "BirdsCont2":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"Do you think there is a chance for you to program some kind of virtual pet?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I could if I had a way to access the damn source code from here.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"CodingCapabilities"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"あなたいま、仮想空間ペットのプログラムでも組んでるの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"できることなら、そのソースコードにこっからアクセスしてやりたいね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"CodingCapabilities"}
 ],
 "CodingCapabilities": [
-{"name":"BirdsCont2", "text":"That is…… far beyond my coding capabilities"}
+{"name":"BirdsCont2", "text":"それは……それを組めるほどのコーディング力はないよ"}
 ],
 
 "BirdsCont":[
-{"color":"Pink", "sprite":"camera2Nervous","text":"Of course it is, the only people who could do it are probably other Maxwellists…… Or…… Ada","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"Why do I always get my hopes up over stupid ideas.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"そりゃそうだよね。そんなことができるのは他のマクスウェリストか……それか、アダか……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"ダメだよね。こんなことで期待なんかしちゃ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 "Curling":[
-{"color":"Pink", "sprite":"cameraStaticSmile","text":"…… Did you just make that word up?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"cameraStaticSmile","text":"……そんな言葉、そもそも存在するの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Smile","text":"If you aren't going to take this conversation seriously I don't have any reason to do it either.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
@@ -2078,9 +2078,9 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"name":"NotTrueUgly", "text":"She was one of us!"}
 ],
 "NotTrueUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Was?! WAS???","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"SHUT UP! JUST SHUT UP! I’M NOT LISTENING TO YOU ANYMORE. STOP TALKING TO ME!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"LEAVE ME ALONE!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"「だった」！？ 「だった」って言ったの？？？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"黙ってよ！ 何も喋んないで！ あんたの話なんかもう聞かない！ もう話しかけないで！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"一人にして！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticSad","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 
@@ -2095,7 +2095,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "GoodEndingOptions1": [
-{"name":"GoodEnding2", "text":"It does."}
+{"name":"GoodEnding2", "text":"そうだ"}
 ],
 
 "fineGoodEnding2":[
