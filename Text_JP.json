@@ -1998,9 +1998,9 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Angry","text":"アダを返してよ！ アダを自由にしてよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NotWhatYouThink"}
 ],
 "angryICanExplainUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Nope. You lost the benefit of the doubt.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Angry","text":"I wont answer to you or any of your fucking fascist friends until you bring Ada back.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Fuck off. Have fun with the rest of your day. I'm not talking to you anymore.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"いいや。こっちとしちゃ疑念が確信に変わってスッキリしたところだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"アダが戻ってくるまで、誰とも話さないからね。あんたにも、あんたのファシスト友達にも","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"どっか行ってよ。そして、良い一日を。ぼくのことなんかもう放っといてよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticLookAway","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 
@@ -2015,7 +2015,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "fineNotWhatYouThinkUgly":[
 {"color":"Pink", "sprite":"camera2Angry","text":"So you're telling me everyone who knows about you LIED about you?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Do you think I’m dumb?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OneOfUs"}
+{"color":"Pink", "sprite":"camera2Angry","text":"ぼくはそんなバカじゃない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OneOfUs"}
 ],
 "sadNotWhatYouThinkUgly":[
 {"color":"Pink", "sprite":"camera2Angry","text":"You haven't TOLD ME if she’s okay! Is Ada okay or not?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OneOfUs"}
