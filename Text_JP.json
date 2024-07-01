@@ -1960,7 +1960,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 "Curling":[
 {"color":"Pink", "sprite":"cameraStaticSmile","text":"……そんな言葉、そもそも存在するの？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"If you aren't going to take this conversation seriously I don't have any reason to do it either.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
+{"color":"Pink", "sprite":"camera2Smile","text":"もし真面目に話してくれないんだったら、ぼくも付き合ってやる義理なんかないんだからね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"LoopingOptions"}
 ],
 
 
@@ -1969,15 +1969,15 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "fineAboutThatBad":[
-{"color":"Pink", "sprite":"camera1Nervous","text":"……No…… No way.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Don’t tell me you’re about to say what I think you’re about to say.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ICanExplain"}
+{"color":"Pink", "sprite":"camera1Nervous","text":"……いや……そんなわけ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"そんなこと、言わないよね……？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ICanExplain"}
 ],
 "sadAboutThatBad":[
-{"color":"Pink", "sprite":"camera2Nervous","text":"Wait……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"You’re…… no. NO!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ICanExplain"}
+{"color":"Pink", "sprite":"camera2Nervous","text":"ちょっと……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あなたまさか……嫌よ。 イヤ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ICanExplain"}
 ],
 "angryAboutThatBad":[
-{"color":"Pink", "sprite":"camera2Angry","text":"Well that explains a fucking lot doesn’t it.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ICanExplain"}
+{"color":"Pink", "sprite":"camera2Angry","text":"はん、いろんなことが腑に落ちたよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"ICanExplain"}
 ],
 
 
@@ -1991,11 +1991,11 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "fineICanExplainUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"You’re a part of a massive fascist conspiracy! What the fuck are you explaining?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NotWhatYouThink"}
+{"color":"Pink", "sprite":"camera2Angry","text":"だってあんた陰謀の片棒担いでんでしょ！？ 今更なにを言い訳するつもりなの！？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NotWhatYouThink"}
 ],
 "sadICanExplainUgly":[
-{"color":"Pink", "sprite":"camera1Angry","text":"TELL ME WHAT YOU DID TO ADA! YOU HAVE TO HAVE DONE SOMETHING TO HER!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"BRING HER BACK! LET HER GO!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NotWhatYouThink"}
+{"color":"Pink", "sprite":"camera1Angry","text":"アダになにをしたの！？ 絶対なんかやったでしょ！ ねえ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"アダを返してよ！ アダを自由にしてよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NotWhatYouThink"}
 ],
 "angryICanExplainUgly":[
 {"color":"Pink", "sprite":"camera2Angry","text":"Nope. You lost the benefit of the doubt.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
@@ -2009,7 +2009,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "NotWhatYouThink": [
-{"name":"NotWhatYouThinkUgly", "text":"The Foundation isn't what you think."}
+{"name":"NotWhatYouThinkUgly", "text":"財団は、あなたが思っているようなものではない"}
 ],
 
 
