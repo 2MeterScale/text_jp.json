@@ -2014,11 +2014,11 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "fineNotWhatYouThinkUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"So you're telling me everyone who knows about you LIED about you?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あんたが知る全員が、あんたについて嘘を言ってたとでも？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"ぼくはそんなバカじゃない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OneOfUs"}
 ],
 "sadNotWhatYouThinkUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"You haven't TOLD ME if she’s okay! Is Ada okay or not?!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OneOfUs"}
+{"color":"Pink", "sprite":"camera2Angry","text":"アダはどうなってるの！？ 大丈夫なの！？ 教えてよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"OneOfUs"}
 ],
 
 
@@ -2026,30 +2026,30 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "OneOfUs": [
-{"name":"OneOfUsUgly", "text":"Ada is one of us."}
+{"name":"OneOfUsUgly", "text":"アダは我々の仲間だ"}
 ],
 
 "fineOneOfUsUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"What? No…… No she would have TOLD me that.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"SupposedToTell"}
+{"color":"Pink", "sprite":"camera2Angry","text":"なん……そんな、もしそうだったらぼくに教えてくれてるはず……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"SupposedToTell"}
 ],
 "sadOneOfUsUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"No. NO! STOP LYING TO ME!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Ada would have told me that herself! It’s why you’ve been leaving me alone isn’t it?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"You TOOK ME from her!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NotTrue"}
+{"color":"Pink", "sprite":"camera2Angry","text":"やめて、やめてよ！ そんなウソを言うのは！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"そうだったらアダが自分から教えてくれるはずなんだよ！ ……だからさっきからぼくを一人にしてたんだね？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あんたがぼくからアダを奪ったんだ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NotTrue"}
 ],
 
 
 
 "SupposedToTell": [
-{"name":"SupposedToTellUgly", "text":"We aren’t supposed to tell anyone."}
+{"name":"SupposedToTellUgly", "text":"財団に勤めてるなんて、誰にも言えないんだよ"}
 ],
 
 "SupposedToTellUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"But she would have told ME!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Ada…… Ada cares about ME!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"Ada would have broken rules for ME. I…… I would have done the same!","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I…… I love..","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I love…… her..","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TrustHer"}
+{"color":"Pink", "sprite":"camera2Angry","text":"でも……そうなら言ってくれるはずだよ！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"だってアダは……アダはぼくのことが……！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"ぼくのためならルールくらい破ってくれるって……！ ぼくも、ぼくだって同じことをしたのに！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"ぼくは……アダのこと……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"愛してるんだよ……！","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"TrustHer"}
 ],
 
 
@@ -2059,15 +2059,15 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "TrustHer": [
-{"name":"TrustHerUgly", "text":"You trust her right?"}
+{"name":"TrustHerUgly", "text":"彼女のことを信じてるんだろ"}
 ],
 
 "TrustHerUgly":[
-{"color":"Pink", "sprite":"camera2Angry","text":"It's not HER I'm worried about.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I…… I  don’t know if I trust YOU.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"You seem nice enough but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I…… I need some time to think. Leave me alone for a little while.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Angry","text":"I'll…… talk to you when I'm ready to. Maybe when your shift is over……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"アダ本人のことを心配してるわけじゃなくて","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"あ……あんたのこと、信じていいかわかんない","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"きみはいい人っぽいけど……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"ちょ……ちょっと、時間がほしい。一人で、考えさせてよ……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"ぼくの心の準備ができたら、また話しかけるから……きみのシフトが終わったときくらいにでも……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"floorStaticLookAway","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 
@@ -2099,26 +2099,26 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 "fineGoodEnding2":[
-{"color":"Pink", "sprite":"camera1Smile","text":"I'll see you tomorrow. This has been my best day in……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Months? I think?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Thank you.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"また明日会おうね。今日は本当に良い日だったな……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"それこそ、何ヶ月かぶりの？ って感じ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ありがとね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"{FoundationSnippet}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I hope I can tell Ada how much I appreciate it too……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions2"}
+{"color":"Pink", "sprite":"camera2Smile","text":"アダにも、どれだけきみに感謝しているかを話せたらいいな……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions2"}
 ],
 "sadGoodEnding2":[
-{"color":"Pink", "sprite":"camera1Smile","text":"……Thank you.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"For the new room. I know we didn't get to talk much but…… I'm grateful.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"……お部屋のこと、","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"本当にありがとう。そんなにお話はできなかったけど……感謝してる","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"{FoundationSnippet}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I hope to see you tomorrow……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions2"}
+{"color":"Pink", "sprite":"camera1Sad","text":"また明日会えるといいな……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions2"}
 ],
 "angryGoodEnding2":[
-{"color":"Pink", "sprite":"camera1Angry","text":"I'm not…… HAPPY with how you treated me…… but……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Nervous","text":"Thanks. For the new room.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Angry","text":"あんたの態度に……満足してるってわけじゃ……ないけど","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Nervous","text":"お部屋のこと、ありがとう","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Angry","text":"{FoundationSnippet}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Sad","text":"I guess I'll see you tommorow.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions2"}
+{"color":"Pink", "sprite":"camera1Sad","text":"また明日も会えるかもね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions2"}
 ],
 "GoodEndingOptions2": [
-{"name":"GoodEnding2", "text":"I hope to see you too."}
+{"name":"GoodEnding2", "text":"それじゃ、またね"}
 ],
 
 
@@ -2127,13 +2127,13 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 "firedyesFoundation":"I'm…… not sure how I feel about you…… and…… the Foundation…… but……",
 
 
-"SCPFoundation":"SCP Foundation
-   Secure. Contain. Protect.",
+"SCPFoundation":"SCP財団
+   確保、収容、保護",
 
 
-"firedText" :"[center][b]Day one Assessment.[/b][/center]
+"firedText" :"[center][b]初日勤務評定[/b][/center]
 
-[center][b]Day one Assessment.[/b][/center]
+[center][b]初日勤務評定[/b][/center]
 
 	SCP-8500's containment procedures have been updated to reflect SCP-8500-1's reaction to the new stimuli.
 
@@ -2143,7 +2143,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 	
 	Though your actions aided in improving containment procedures for SCP-8500, you will be amnesticized and returned to life in normalcy.
 	
-	Secure. Contain. Protect.",
+	確保、収容、保護",
 
 "firedBest":[
 {"color":"Pink", "sprite":"camera1Smile","text":"I know you don't remember me.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
@@ -2191,7 +2191,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 "angryyesFoundation":"You fucking bastards can't keep Ada from me forever. She'll find me. I know it.",
 
 
-"followedOrdersText":"[center][b]Day one Assessment.[/b][/center]
+"followedOrdersText":"[center][b]初日勤務評定[/b][/center]
 
 	Your initial work with SCP-8500 has been deemed satisfactory. The maintenance of SCP-8500 will continue as initially outlined.
 
@@ -2199,19 +2199,19 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 	Await further communications
 	
-	Secure. Contain. Protect.",
+	確保、収容、保護",
 "fineInsert":"The mental state of  SCP-8500-1 has had a mild improvement, so current behavior with the anomaly is to be continued.",
 "sadInsert":"As SCP-8500-1 mental state has declined sharply, further interactions with the anomaly are requested.",
 "angryInsert":"Due to the anomaly´s refusal to cooperate with you, a new employee will be assigned to it as soon as possible.",
 	
 	
-"disobeyedOrdersText":"[center][b]Day one Assessment.[/b][/center]
+"disobeyedOrdersText":"[center][b]初日勤務評定[/b][/center]
 
 	Your progress in deleting the accessory files on SCP-8500 has been unsatisfactory. Your position is now under review and you are to be temporarily re-assigned to an alternative anomaly. The responsibilities in the containment of SCP-8500 will be filled by a member of senior staff for the time being.
 
 	Once the review is complete, you will either be reassigned permanently or returned to your previous position.
 
-	Secure. Contain. Protect.",
+	確保、収容、保護",
 
 
 "synthiaClosed":[
@@ -2223,7 +2223,7 @@ PARADISE.exe has been closed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":
 {"color":"Teal", "sprite":"null","text":"ファイルが削除されました。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 
-"demotedText" :"[center][b]Day one Assessment.[/b][/center]
+"demotedText" :"[center][b]初日勤務評定[/b][/center]
 
 	The Ethics Committee's deliberation has found that the intentional unauthorized neutralization of SCP-8500-1 that occurred during the deletion of SCP-8500 constitutes murder.
 
@@ -2233,7 +2233,7 @@ PARADISE.exe has been closed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":
 
 	At 06:00 you will be amnesticized and transported to Site-19 to carry out your sentence.
 	
-	Secure. Contain. Protect.",
+	確保、収容、保護",
 	
 "credits":"[center]Written by Guaire and IronShears
 
