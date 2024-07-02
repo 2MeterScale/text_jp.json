@@ -2180,36 +2180,36 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"name":"GoodEnding2", "text":"さようなら"}
 ],
 
-"finenoFoundation":"You’re not Ada but…… At least you’re better than nothing.",
-"sadnoFoundation":"I won't notice much of a difference while you are away.",
+"finenoFoundation":"あなたはアダじゃないけど……なにもないよりかはマシだったよ",
+"sadnoFoundation":"あなた、居ても居なくても大して変わらなかったよ",
 "finenoFoundationJeanPaul":"ぼくは……えっと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかな",
 "sadnoFoundationJeanPaul":"ぼくは……えっと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかな",
-"angrynoFoundationJeanPaul":"I'm…… pissed at you…… and I don't believe Ada about Jean-Paul…… but…… tell her I love her.",
-"angrynoFoundation":"Hopefully you get fired and I get someone who’s less completely obnoxious.",
-"fineyesFoundation":"I'm…… I still need some time…… but…… if you're telling the truth about Ada…… I hope to see you again.",
-"sadyesFoundation":"Please…… please bring…… Ada…… back……",
-"angryyesFoundation":"You fucking bastards can't keep Ada from me forever. She'll find me. I know it.",
+"angrynoFoundationJeanPaul":"あんたのこと、気に入らなかったな。それと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかな",
+"angrynoFoundation":"あんたはとっととクビにされてちょうだい。次の人はあんまウザい感じじゃないといいな",
+"fineyesFoundation":"えっと……まだ、ちょっと時間がほしいけど……。もしあなたがアダについてホントのことを言ってるなら……また会いたいな",
+"sadyesFoundation":"お願い……お願いだから……アダを、返して……",
+"angryyesFoundation":"あんたら財団のクソ野郎だろうと、アダからぼくをずっと隠しておけると思わないことだね。アダはぼくを見つける。見つけるんだから",
 
 
 "followedOrdersText":"[center][b]初日勤務評定[/b][/center]
 
-	Your initial work with SCP-8500 has been deemed satisfactory. The maintenance of SCP-8500 will continue as initially outlined.
+	あなたのSCP-8500に対する勤務態度は良好なものでした。SCP-8500の今後の維持管理は、当初と同様に執り行われます。
 
 	{moodInsert}
 
 	さらなる命令をお待ちください。
 	
 	確保、収容、保護",
-"fineInsert":"The mental state of  SCP-8500-1 has had a mild improvement, so current behavior with the anomaly is to be continued.",
-"sadInsert":"As SCP-8500-1 mental state has declined sharply, further interactions with the anomaly are requested.",
-"angryInsert":"Due to the anomaly´s refusal to cooperate with you, a new employee will be assigned to it as soon as possible.",
+"fineInsert":"SCP-8500-1の心理状況は、わずかに改善されました。今後も同様の取扱をしてください。",
+"sadInsert":"SCP-8500-1の心理状況は極度に悪化しました。本アノマリーとのさらなる交流が望まれます。",
+"angryInsert":"本アノマリーはあなたとの協調を拒否したため、迅速に別の人員が配属されます。",
 	
 	
 "disobeyedOrdersText":"[center][b]初日勤務評定[/b][/center]
 
-	Your progress in deleting the accessory files on SCP-8500 has been unsatisfactory. Your position is now under review and you are to be temporarily re-assigned to an alternative anomaly. The responsibilities in the containment of SCP-8500 will be filled by a member of senior staff for the time being.
+	SCP-8500の付属ファイルを削除する作業について、あなたの進捗は不十分なものでした。あなたの職位は再検討されます。その間、あなたは別のアノマリーに配属されます。また、当該期間におけるSCP-8500の収容は、上位の職員によって行われます。
 
-	Once the review is complete, you will either be reassigned permanently or returned to your previous position.
+	再検討が終了した後、あなたは恒久的に再配属されるか、元の職務に復帰させられます。
 
 	確保、収容、保護",
 
@@ -2225,13 +2225,13 @@ PARADISE.exeは終了しました。","tickSpeed":0.05,"closeSpeed":1,"optionsVi
 
 "demotedText" :"[center][b]初日勤務評定[/b][/center]
 
-	The Ethics Committee's deliberation has found that the intentional unauthorized neutralization of SCP-8500-1 that occurred during the deletion of SCP-8500 constitutes murder.
+	SCP-8500の消去を通じて発生した、SCP-8500-1の故意かつ無許可の無力化は、倫理委員会の討議によって、殺人であると判断されました。
 
-	As such, the Ethics Committee has recommended a life sentence to be carried out at Site-19's D-Class facility. This sentencing was approved and enacted by O5-8.
+	これにより、倫理委員会はサイト-19のDクラス施設における終身刑を具申しました。この具申はO5-8によって承認され、これより実施されます。
 
-	You will have the following 12 hours to leave your holding cell, collect your things, and make monitored phone calls to your loved ones. 
+	勾留室を出て、あなたには所持品を集めたのち、監視下において愛する者に電話をかけるための時間が、12時間与えられます。 
 
-	At 06:00 you will be amnesticized and transported to Site-19 to carry out your sentence.
+	06:00にあなたは記憶処理を受け、その後サイト-19に移送され、刑が執行されます。
 	
 	確保、収容、保護",
 	
