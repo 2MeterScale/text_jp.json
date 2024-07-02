@@ -2122,9 +2122,9 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 ],
 
 
-"firednoFoundation":"I'm…… going to be able to appreciate this forever.",
-"firednoFoundationJeanPaul":"I'm…… I don't believe her about Jean-Paul…… but…… please tell Ada I love her.",
-"firedyesFoundation":"I'm…… not sure how I feel about you…… and…… the Foundation…… but……",
+"firednoFoundation":"この感謝の気持ちは、この先もずっと忘れないよ",
+"firednoFoundationJeanPaul":"ぼくは……えっと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかなr.",
+"firedyesFoundation":"いまさら財団とあなたにどんな顔を向けたらいいかわかんない。けれど……",
 
 
 "SCPFoundation":"SCP財団
@@ -2215,8 +2215,8 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "synthiaClosed":[
-{"color":"Teal", "sprite":"cameraStaticNervous","text":"Password Accepted.
-PARADISE.exe has been closed.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
+{"color":"Teal", "sprite":"cameraStaticNervous","text":"パスワードが入力されました。
+PARADISE.exeは終了しました。","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false}
 ],
 
 "fileDeletedSynthia":[
