@@ -2123,7 +2123,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 
 "firednoFoundation":"この感謝の気持ちは、この先もずっと忘れないよ",
-"firednoFoundationJeanPaul":"ぼくは……えっと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかなr.",
+"firednoFoundationJeanPaul":"ぼくは……えっと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかな",
 "firedyesFoundation":"いまさら財団とあなたにどんな顔を向けたらいいかわかんない。けれど……",
 
 
@@ -2135,55 +2135,55 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 [center][b]初日勤務評定[/b][/center]
 
-	SCP-8500's containment procedures have been updated to reflect SCP-8500-1's reaction to the new stimuli.
+	SCP-8500の収容プロトコルは、SCP-8500-1の外部刺激への反応を鑑みて、アップデートされました。
 
-	The improvement in SCP-8500-1's mood was immediate and obvious. Further modifications and expansions of its environment have been approved by the Ethics Committee due to the clear benefits these actions proved.
+	SCP-8500-1の情緒面の改善は即時かつ効果的に行われました。本オブジェクトの住環境の改善は、その明らかな有効性により、倫理委員会に承認されました。
 
-	However, your disobedience has still been deemed unacceptable. Your position at the SCP Foundation has been rescinded.
+	しかし、あなたの命令違反は容認できません。あなたのSCP財団における、現在の身分は剥奪されます。Your position at the SCP Foundation has been rescinded.
 	
-	Though your actions aided in improving containment procedures for SCP-8500, you will be amnesticized and returned to life in normalcy.
+	あなたはSCP-8500の収容プロトコルの改善に貢献しました。この功績を鑑みたうえで、あなたは記憶処理され、非異常の人生に戻されます。
 	
 	確保、収容、保護",
 
 "firedBest":[
-{"color":"Pink", "sprite":"camera1Smile","text":"I know you don't remember me.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I know it's been 10 years since we last spoke.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"But I just need to say this.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I'm free. I'm happy. I touched another person for the first time in 12 years yesterday.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"And it's all because of you and Ada.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"I can't imagine what my life would look like if you hadn't helped me that day.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera1Smile","text":"Thank you","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ぼくのこと、覚えてないでしょ？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"最後にお話してから、もう10年経ったんだよ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"でも、これだけは伝えたくって","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"ぼくは自由で、幸せだよ。昨日なんか、12年ぶりに他の人に触れたの","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"これも全部、あなたとアダのおかげ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"あの日に助けてくれなかったら、今頃どうなってるか想像もできないや","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"ありがとう","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Smile","text":" ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"firedBestEnd"}
 ],
 
 "firedBestEnd": [
-{"name":"end", "text":"That was a weird robocall."}
+{"name":"end", "text":"妙な自動音声通話だったな"}
 ],
 
 
 "fineNeutralEnd":[
-{"color":"Pink", "sprite":"camera1Smile","text":"WAIT…… it’s 5PM already……?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
-{"color":"Pink", "sprite":"camera2Smile","text":"Damn…… I guess I’ll see you tomorrow.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Smile","text":"待って……もう5時なの……？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Smile","text":"あちゃー……こりゃ、また明日だね","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Nervous","text":"{FoundationSnippet}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"GoodEndingOptions2"}
 ],
 "sadNeutralEnd":[
-{"color":"Pink", "sprite":"camera1Sad","text":"Oh, it’s 5PM. That means you will be leaving now doesn't it?","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera1Sad","text":"あ、5時だ。ということは、もう居なくなっちゃうってこと？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera2Sad","text":"{FoundationSnippet}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NeutralEndOptions"}
 ],
 "angryNeutralEnd":[
-{"color":"Pink", "sprite":"camera2Angry","text":"AAAANND…… would you look at that. 5PM Thank GOD.","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
+{"color":"Pink", "sprite":"camera2Angry","text":"よーーーやくだよ。時計見てごらん。やっと5時が来てくれた","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false},
 {"color":"Pink", "sprite":"camera1Angry","text":"{FoundationSnippet}","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NeutralEndOptions"}
 ],
 
 
 "NeutralEndOptions": [
-{"name":"GoodEnding2", "text":"Goodbye"}
+{"name":"GoodEnding2", "text":"さようなら"}
 ],
 
 "finenoFoundation":"You’re not Ada but…… At least you’re better than nothing.",
 "sadnoFoundation":"I won't notice much of a difference while you are away.",
-"finenoFoundationJeanPaul":"I'm…… I don't believe her about Jean-Paul…… but…… please tell Ada I love her.",
-"sadnoFoundationJeanPaul":"I'm…… I don't believe her about Jean-Paul…… but…… please tell Ada I love her.",
+"finenoFoundationJeanPaul":"ぼくは……えっと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかな",
+"sadnoFoundationJeanPaul":"ぼくは……えっと、アダがジン・ポールについて言ってたことを信じるわけじゃないんだけど……もし会えたら、愛してるって伝えてくれるかな",
 "angrynoFoundationJeanPaul":"I'm…… pissed at you…… and I don't believe Ada about Jean-Paul…… but…… tell her I love her.",
 "angrynoFoundation":"Hopefully you get fired and I get someone who’s less completely obnoxious.",
 "fineyesFoundation":"I'm…… I still need some time…… but…… if you're telling the truth about Ada…… I hope to see you again.",
@@ -2197,7 +2197,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 
 	{moodInsert}
 
-	Await further communications
+	さらなる命令をお待ちください。
 	
 	確保、収容、保護",
 "fineInsert":"The mental state of  SCP-8500-1 has had a mild improvement, so current behavior with the anomaly is to be continued.",
