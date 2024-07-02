@@ -2235,16 +2235,19 @@ PARADISE.exeは終了しました。","tickSpeed":0.05,"closeSpeed":1,"optionsVi
 	
 	確保、収容、保護",
 	
-"credits":"[center]制作・著作 Guaire、IronShears
+"credits":"[center]制作・著作: Guaire、IronShears
+
+翻訳: 2MeterScale
+査読協力: 超♡翻訳会
 
 批評
 
 JackalRelated氏、AnkleSwallower氏、SynthPanda氏、LAN氏、そしてRakaran氏のご批評に感謝します。 
 
-Additional thank you so much JackalRelated for throwing the game in a blender over and over again during playtesting. This would not be nearly as stable if it weren't for you.
+テストプレイ時、このゲームを何度も何度もBlenderに放り込んだりしてくれたJackalRelated氏に、重ねて感謝を申し上げます。あなたなしでは、このゲームが此れほど安定することはなかったでしょう。
 
 
-Images
+画像
 Cynthia SCP-8500 image: Hazel the Delta Rambler, WWOZ New Orleans, 1990 by Infrogmation, CC-BY 2.0, Edited by IronShears
 
 my_cat1.jpg: nullhing’s cat, CC-BY-SA 3.0, Edited by IronShears
@@ -2276,7 +2279,7 @@ Error (Disaparaging Chimes) by SilverIllusionist CC-BY 4.0
 
 
 
-PROGRAMS USED
+使用したプログラム
 
 Aseprite
 
@@ -2289,7 +2292,7 @@ OpenUTAU, MIT licensed
 All other images by IronShears, CC-BY-SA 3.0.
 
 
-FONTS
+フォント
 
 Page Font: TimesNewPixel by pentacom, Public Domain. 
 
@@ -2299,7 +2302,7 @@ Tiny File font: m3x6 by Daniel Linssen, CC-BY
 
 SCP Foundation Font: Sans Normalcy by SYWaves, Open Font license 
 
-CODE
+コード
 
 Palette Swap: Palette Swap using two textures by afk, CC0
 
