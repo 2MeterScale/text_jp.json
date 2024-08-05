@@ -991,7 +991,7 @@ SCP-8500がインストールされているデバイスは、電子決済シス
 {"color":"Pink", "sprite":"camera2Sad","text":"うん……","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":false,"continue":"WhatsYourNameContinue{Var}"}
 ],
 "fineWhatsYourNameContinue":[
-{"color":"Pink", "sprite":"camera2Smile","text":"それじゃ、アダは前から作ってたものをぼくに見せてよくなるように、上司を説得できてたのかな？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
+{"color":"Pink", "sprite":"camera2Smile","text":"それじゃ、アダは上司の人を説得できたんだね。アダがずっと何を作ってたのか、気になってたんだ","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
 ],
 "sadWhatsYourNameContinue":[
 {"color":"Pink", "sprite":"camera2Sad","text":"アダがぼくにサプライズをする許可くらいはとってくれたんでしょう？","tickSpeed":0.05,"closeSpeed":1,"optionsVisible":true,"options":"NoSurprise"}
